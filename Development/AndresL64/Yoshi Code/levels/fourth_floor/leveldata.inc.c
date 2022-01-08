@@ -1,0 +1,5 @@
+#include "levels/fourth_floor/texture_include.inc.c"
+#include "levels/fourth_floor/area_1/collision.inc.c"
+#include "levels/fourth_floor/area_1/macro.inc.c"
+#include "levels/fourth_floor/area_1/spline.inc.c"
+#include "levels/fourth_floor/model.inc.c"

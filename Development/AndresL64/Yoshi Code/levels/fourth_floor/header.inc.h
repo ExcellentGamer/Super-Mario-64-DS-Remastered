@@ -1,0 +1,32 @@
+extern const GeoLayout fourth_floor_area_1_geo[];
+extern const GeoLayout fourth_floor_area_1[];
+extern const Collision fourth_floor_area_1_collision[];
+extern const MacroObject fourth_floor_area_1_Area_1_macro_objs[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_0[66];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_0[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_1[12];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_1[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_2[38];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_2[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_3[9];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_3[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_4[62];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_4[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_5[44];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_5[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_6[4];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_6[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_7[44];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_7[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_8[44];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_8[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_9[4];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_9[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_10[4];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_10[];
+extern Vtx fourth_floor_dl_fourth_floor_mesh_vtx_11[60];
+extern Gfx fourth_floor_dl_fourth_floor_mesh_tri_11[];
+
+extern Gfx fourth_floor_dl_fourth_floor_mesh[];
+extern Gfx fourth_floor_dl_material_revert_render_settings[];
+
