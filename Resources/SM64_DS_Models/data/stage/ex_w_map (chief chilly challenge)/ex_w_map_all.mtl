@@ -1,0 +1,64 @@
+newmtl mat_ice
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ice.png
+
+newmtl mat_kusari
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kusari.png
+
+newmtl mat_nagare
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd nagare.png
+
+newmtl mat_nagare_kiwa
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd nagare_kiwa.png
+
+newmtl mat_ori
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd fence.png
+
+newmtl mat_rock
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ishi.png
+
+newmtl mat_saku
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd saku.png
+
+newmtl mat_water
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd water.png
+

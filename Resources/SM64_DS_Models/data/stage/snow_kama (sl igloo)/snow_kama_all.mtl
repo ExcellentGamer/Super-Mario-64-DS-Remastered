@@ -1,0 +1,40 @@
+newmtl mat_f_ami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd f_ice_ami.png
+
+newmtl mat_f_ice2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd f_ice2.png
+
+newmtl mat_f_wood
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd f_wood.png
+
+newmtl mat_f_yuki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd f_yuki.png
+
+newmtl water_mat
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd water.png
+

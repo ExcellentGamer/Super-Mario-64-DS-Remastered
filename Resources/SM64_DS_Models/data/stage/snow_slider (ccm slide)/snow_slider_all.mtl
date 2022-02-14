@@ -1,0 +1,104 @@
+newmtl ice_road
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ice_road.png
+
+newmtl mat_enkei
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd enkei.png
+
+newmtl mat_f_ice
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mado_ice.png
+
+newmtl mat_f_ice2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kabe.png
+
+newmtl mat_f_mado
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd f_mado.png
+
+newmtl mat_f_renga
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd f_renga.png
+
+newmtl mat_f_tsurara
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tsurara.png
+
+newmtl mat_f_woodwall
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wood.png
+
+newmtl mat_f_yuki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd f_yuki.png
+
+newmtl mat_gate
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd gate.png
+
+newmtl mat_ice_kabe
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ice_kabe.png
+
+newmtl mat_ice_kabe1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ice_kabe_a.png
+
+newmtl mat_iceblock
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iceblock.png
+

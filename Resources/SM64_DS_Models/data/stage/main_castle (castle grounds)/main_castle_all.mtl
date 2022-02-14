@@ -1,0 +1,192 @@
+newmtl carpet
+Ka 0.5176471 0.5176471 0.5176471
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd carpet_red.png
+
+newmtl conc_wall
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd concwall_32.png
+
+newmtl gake_00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_gake.png
+
+newmtl grass
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_grass.png
+
+newmtl mc_bridge
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_bridge.png
+
+newmtl mc_fence
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_fence.png
+
+newmtl mc_flow_a
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_flow_a.png
+
+newmtl mc_flow_b
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_flow_b.png
+
+newmtl mc_kakine00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_kakine00.png
+
+newmtl mc_kakine01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_kakine01.png
+
+newmtl mc_road
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_road.png
+
+newmtl mc_roof
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_roof.png
+
+newmtl mc_sand
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_sand.png
+
+newmtl mc_sand_d
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_sand_d.png
+
+newmtl mc_til_str
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_til_str.png
+
+newmtl mc_tile00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_til00.png
+
+newmtl mc_window
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_window.png
+
+newmtl peach
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach.png
+
+newmtl renga_g
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga_grass.png
+
+newmtl renga_sk
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga_shik00.png
+
+newmtl tree_shadow
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.3870968
+illum 2
+map_Kd tree_shadow.png
+
+newmtl tri_tile
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_tritile.png
+
+newmtl water_mat
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd water.png
+
+newmtl yama
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_yama.png
+

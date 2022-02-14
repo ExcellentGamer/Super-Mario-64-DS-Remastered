@@ -1,0 +1,80 @@
+newmtl iron01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd conc_niji.png
+
+newmtl iron02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd conc_bis.png
+
+newmtl kumo
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kumo.png
+
+newmtl niji0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+map_Kd niji.png
+
+newmtl niji1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.5483871
+illum 2
+map_Kd niji.png
+
+newmtl niji2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.5806451
+illum 2
+map_Kd niji.png
+
+newmtl niji3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.6129032
+illum 2
+map_Kd niji.png
+
+newmtl niji4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.6451613
+illum 2
+map_Kd niji.png
+
+newmtl sima01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rm_sima01.png
+
+newmtl tree
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+map_Kd tree_shadow.png
+

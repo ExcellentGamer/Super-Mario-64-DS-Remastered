@@ -1,0 +1,64 @@
+newmtl cpt
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd exl_cpt.png
+
+newmtl karten
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd exl_maku00_1.png
+
+newmtl kikiki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl mirror
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.2903226
+illum 2
+map_Kd exl_mr.png
+
+newmtl th_hasira
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_hasira.png
+
+newmtl th_huti00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_huti00.png
+
+newmtl th_kabe01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_moza
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd exl_yuka00.png
+

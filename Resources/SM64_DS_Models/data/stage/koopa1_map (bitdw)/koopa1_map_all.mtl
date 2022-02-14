@@ -1,0 +1,144 @@
+newmtl lambert7
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tetuwaku.png
+
+newmtl mat_brock
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd block.png
+
+newmtl mat_hasi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd turibasi.png
+
+newmtl mat_isi_side
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isi_yoko.png
+
+newmtl mat_iwa2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isi_b.png
+
+newmtl mat_iwa_side
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isi_b_side.png
+
+newmtl mat_kanaami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kanaami.png
+
+newmtl mat_ki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ita_1.png
+
+newmtl mat_saka
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd saka.png
+
+newmtl mat_saku
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tuna.png
+
+newmtl mat_siso
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd siso.png
+
+newmtl mat_tesuri
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kusari.png
+
+newmtl mat_tsuti01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd grass.png
+
+newmtl mat_wa
+Ka 0.2588235 0.2588235 0.2588235
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hi_2.png
+
+newmtl mat_wood
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kiwaku.png
+
+newmtl mat_yuka4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd gokaku.png
+
+newmtl mat_yuka7
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.9032258
+illum 2
+map_Kd suisyou.png
+
+newmtl mat_yuka_ue
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yuka.png
+

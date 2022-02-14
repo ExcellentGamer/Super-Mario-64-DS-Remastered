@@ -1,0 +1,120 @@
+newmtl ami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ami02.png
+
+newmtl ami_n
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ami_n.png
+
+newmtl bs_naka_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl dai
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd dai.png
+
+newmtl ita
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd oakgrain.png
+
+newmtl iwa2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa2.png
+
+newmtl iwa_koke
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa_koke.png
+
+newmtl iwa_koke2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa_koke2.png
+
+newmtl iwa_light
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa_light.png
+
+newmtl koke
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd koke.png
+
+newmtl lambert14
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd grass.png
+
+newmtl leaf
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd leaf.png
+
+newmtl light_al
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+map_Kd light_al.png
+
+newmtl wall
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa3.png
+
+newmtl wall_leaf
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wall_leaf.png
+

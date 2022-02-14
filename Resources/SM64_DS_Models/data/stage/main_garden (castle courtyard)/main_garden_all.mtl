@@ -1,0 +1,160 @@
+newmtl blue_tile
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd blue_tile.png
+
+newmtl carpet
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd carpet_red.png
+
+newmtl flt2m
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl line_conc
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd line_conc.png
+
+newmtl mc_flow_a
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_flow_a.png
+
+newmtl mc_flow_b
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_flow_b.png
+
+newmtl mc_roof
+Ka 0 0 0
+Kd 0.6470588 0.6470588 0.6470588
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_roof.png
+
+newmtl mc_tile_str
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_til_str.png
+
+newmtl mg_grass
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mg_grass.png
+
+newmtl mg_net
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mg_net.png
+
+newmtl mg_renga
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mg_renga.png
+
+newmtl mg_stucco
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mg_stucco.png
+
+newmtl mg_wall
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mg_wall.png
+
+newmtl mg_window
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mg_window.png
+
+newmtl mg_wood
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mg_wood.png
+
+newmtl star_plate
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mg_star_plate.png
+
+newmtl tree_shadow
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.3870968
+illum 2
+map_Kd tree_shadow.png
+
+newmtl tri_tile
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mg_tritile.png
+
+newmtl water
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd water.png
+
+newmtl yama00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yama00_cmp4.png
+

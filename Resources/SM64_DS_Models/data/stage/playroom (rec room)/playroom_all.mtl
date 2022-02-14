@@ -1,0 +1,336 @@
+newmtl carpet1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_carpt.png
+
+newmtl dairi_ic
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd dairi_ichi.png
+
+newmtl lambert31
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd cpt_r00.png
+
+newmtl mat_checker
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd dm_cpt.png
+
+newmtl mat_kabe_kumo
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_kumo.png
+
+newmtl mat_kabe_yama
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_kusa.png
+
+newmtl pr_peach
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_peach.png
+
+newmtl pr_renga_a
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_block.png
+
+newmtl tesuri
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_tesuri.png
+
+newmtl wall_wht
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_renga_w.png
+
+newmtl bikuri
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd bikuri.png
+
+newmtl bomhei_r1
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd bombhei_p.png
+
+newmtl file8Material
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kinoko_eye.png
+
+newmtl hatena00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hatena00.png
+
+newmtl kino_g
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kino_g.png
+
+newmtl kino_r
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kino_r.png
+
+newmtl kkk
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd r02_kabe.png
+
+newmtl kora_r
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_kora_r.png
+
+newmtl mat_bombhei
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_bomb.png
+
+newmtl material_siro
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl noko_koura
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_koura.png
+
+newmtl piano1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd piano.png
+
+newmtl pr_01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_01.png
+
+newmtl pr_tana00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_tansu.png
+
+newmtl rakugaki02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rakugaki02.png
+
+newmtl rakuugaki01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rakugaki01.png
+
+newmtl tana_sokumen
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tana_side.png
+
+newmtl tori1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rakugaki.png
+
+newmtl wall_wht_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_renga_w.png
+
+newmtl asi1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kin_asi.png
+
+newmtl dairi_ic_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd dairi_ichi.png
+
+newmtl glass
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.2903226
+illum 2
+map_Kd pr_grs.png
+
+newmtl ki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_wood00.png
+
+newmtl kinn00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kin00.png
+
+newmtl kkk_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd r02_kabe.png
+
+newmtl lambert2
+Ka 0.5803922 0.5803922 0.5803922
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vr_01.png
+
+newmtl material_siro_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl r02_wall
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd r02_wall.png
+
+newmtl tana_sokumen_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tana_side.png
+
+newmtl tesuri_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_tesuri.png
+
+newmtl wall_wht_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pr_renga_w.png
+
+newmtl yama00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yama00_cmp4.png
+

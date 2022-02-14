@@ -1,0 +1,128 @@
+newmtl ami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd saku.png
+
+newmtl e_ishidatami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd dan.png
+
+newmtl e_ita
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd uzu.png
+
+newmtl e_iwa2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa.png
+
+newmtl e_kanaami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kanaami.png
+
+newmtl e_wa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kuti.png
+
+newmtl e_yuka2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yuka.png
+
+newmtl e_yuka4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd saka.png
+
+newmtl lambert5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga.png
+
+newmtl mat_hirenga
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hi_renga.png
+
+newmtl mat_hosi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+
+
+newmtl mat_rou
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd dodai.png
+
+newmtl mat_tetu
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd teppan.png
+
+newmtl yogan00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.8064516
+illum 2
+map_Kd yogan.png
+
+newmtl yoko
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoko_renga.png
+
+newmtl yuka3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yuka_3.png
+

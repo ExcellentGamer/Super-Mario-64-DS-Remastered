@@ -1,0 +1,19 @@
+#SM64DS Editor v2.3.5 2017-07-05
+
+mtllib jump_back02.mtl
+
+bonelib jump_back02.bones
+
+o jump_back_model
+v -63.88281 0 -50
+v 63.88281 0 -50
+v -63.88281 202.0391 -50
+v 63.88281 202.0391 -50
+vt 0 1
+vt 1 1
+vt 0 0
+vt 1 0
+vc 0.972549 0.972549 0.972549
+usemtl mat_jump_back
+f 1/1//1 2/2//1 3/3//1 
+f 4/4//1 3/3//1 2/2//1 

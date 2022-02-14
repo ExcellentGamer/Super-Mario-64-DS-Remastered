@@ -1,0 +1,8 @@
+newmtl hamon
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 0.09677419
+illum 2
+map_Kd inoue_hamon1.png
+

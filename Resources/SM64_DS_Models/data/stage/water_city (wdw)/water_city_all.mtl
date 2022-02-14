@@ -1,0 +1,256 @@
+newmtl j_ami01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_ami.png
+
+newmtl j_bldtex01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_renga2_01.png
+
+newmtl j_bldtex02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_renga2.png
+
+newmtl j_iwa01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_iwa.png
+
+newmtl j_kabe01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_kabe01.png
+
+newmtl j_oakgrain01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_oakgrain01.png
+
+newmtl j_renga01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_renga01.png
+
+newmtl j_renga02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tetuita_3.png
+
+newmtl j_renga04
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_isi.png
+
+newmtl j_renga05
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_renga05.png
+
+newmtl j_renga06
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_renga06.png
+
+newmtl j_renga07
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_renga07.png
+
+newmtl j_saku01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_saku01.png
+
+newmtl lambert1
+Ka 0 0 0
+Kd 0.7098039 0.7098039 0.7098039
+Ks 0 0 0
+d 0.6129032
+illum 2
+
+
+newmtl lambert1_1
+Ka 0 0 0
+Kd 0.7098039 0.7098039 0.7098039
+Ks 0 0 0
+d 0.6129032
+illum 2
+
+
+newmtl po_sanbasi01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd po_sanbasi01.png
+
+newmtl j_ami01_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_ami.png
+
+newmtl j_bldtex01_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_renga2_01.png
+
+newmtl j_bldtex02_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_renga2.png
+
+newmtl j_hana01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_hana01.png
+
+newmtl j_iwa01_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_iwa.png
+
+newmtl j_kabe01_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_kabe01.png
+
+newmtl j_midori01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_midori01.png
+
+newmtl j_renga01_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_renga01.png
+
+newmtl j_renga02_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tetuita_3.png
+
+newmtl j_renga04_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wc_isi.png
+
+newmtl j_renga05_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_renga05.png
+
+newmtl j_renga06_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_renga06.png
+
+newmtl j_renga07_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd j_renga07.png
+
+newmtl po_door
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd po_door.png
+
+newmtl po_mado01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd po_mado01.png
+
+newmtl po_sanbasi01_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd po_sanbasi01.png
+

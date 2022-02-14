@@ -1,0 +1,16 @@
+newmtl mat_E
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.8387097
+illum 2
+map_Kd omote2.png
+
+newmtl mat_E1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd esp_card_0.png
+

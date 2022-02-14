@@ -1,0 +1,160 @@
+newmtl mat_block_pl_a1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pira_block.png
+
+newmtl mat_block_pl_b1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd asiba.png
+
+newmtl mat_block_tw1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tou.png
+
+newmtl mat_enter
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd sousyoku.png
+
+newmtl mat_isi_hasira
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hasira.png
+
+newmtl mat_iwa_a1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd stone_1.png
+
+newmtl mat_iwa_b1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd stone_2.png
+
+newmtl mat_iwa_c1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isidtatami.png
+
+newmtl mat_iwa_c_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tatami_yoko.png
+
+newmtl mat_ki_kage
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+map_Kd ki_kage.png
+
+newmtl mat_kiwa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd stone_1_sakai.png
+
+newmtl mat_kiwa1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd stone_2_kiwa2.png
+
+newmtl mat_ryusa_a
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd nagarekomi.png
+
+newmtl mat_sand
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd suna4.png
+
+newmtl mat_tou_sakai
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tou_sakai.png
+
+newmtl mat_under_block
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pblock_down.png
+
+newmtl mat_zw_ami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd saku.png
+
+newmtl mat_zx_water
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd water.png
+
+newmtl mat_zy_ryusa_b
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ryusa.png
+
+newmtl mat_zz_kiwa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.9032258
+illum 2
+map_Kd hanntoumei.png
+

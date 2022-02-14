@@ -1,0 +1,680 @@
+newmtl b_trap_check1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl kikiki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl th_akari00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd th_akari00_A5.png
+
+newmtl th_akari03
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd th_akari03.png
+
+newmtl th_huti00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_huti00.png
+
+newmtl th_kabe01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_kiyka
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kiyuka.png
+
+newmtl th_mado
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_mado.png
+
+newmtl th_rantan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_rantan.png
+
+newmtl th_renga
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl th_saku
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_saku.png
+
+newmtl th_soto00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_soto00.png
+
+newmtl th_teppan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_teppan.png
+
+newmtl th_yuka01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl b_mr
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd b_mr.png
+
+newmtl kikiki_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl tere_pic_b
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_pic_b.png
+
+newmtl th_akari00_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd th_akari00_A5.png
+
+newmtl th_akari03_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd th_akari03.png
+
+newmtl th_hasira
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_hasira.png
+
+newmtl th_huti00_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_huti00.png
+
+newmtl th_kabe01_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_kiyka_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kiyuka.png
+
+newmtl th_mado_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_mado.png
+
+newmtl th_rantan_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_rantan.png
+
+newmtl th_teppan_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_teppan.png
+
+newmtl th_tesuri00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_tesuri00.png
+
+newmtl th_yuka01_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl b_mr_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd b_mr.png
+
+newmtl kikiki_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl tere_pic_b_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_pic_b.png
+
+newmtl th_akari00_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd th_akari00_A5.png
+
+newmtl th_ami00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_ami00.png
+
+newmtl th_daikabe
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_daikabe.png
+
+newmtl th_hasira_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_hasira.png
+
+newmtl th_hon00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_hon00.png
+
+newmtl th_huti00_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_huti00.png
+
+newmtl th_kabe01_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_kiyka_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kiyuka.png
+
+newmtl th_mado_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_mado.png
+
+newmtl th_rantan_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_rantan.png
+
+newmtl th_renga_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl th_soto00_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_soto00.png
+
+newmtl th_teppan_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_teppan.png
+
+newmtl th_tesuri00_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_tesuri00.png
+
+newmtl th_water
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd th_water.png
+
+newmtl th_yuka01_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl b_mr_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd b_mr.png
+
+newmtl gras
+Ka 0.3215686 0.4196078 0.4196078
+Kd 1 1 1
+Ks 0 0 0
+d 0.2580645
+illum 2
+map_Kd exl_mr.png
+
+newmtl kikiki_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl th_hon00_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_hon00.png
+
+newmtl th_huti00_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_huti00.png
+
+newmtl th_kabe01_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_kiyka_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kiyuka.png
+
+newmtl th_mado_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_mado.png
+
+newmtl th_renga_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl th_teppan_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_teppan.png
+
+newmtl th_tesuri00_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_tesuri00.png
+
+newmtl th_yuka01_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl b_mr_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd b_mr.png
+
+newmtl kikiki_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl teretere
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_pic_t.png
+
+newmtl th_daikabe_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_daikabe.png
+
+newmtl th_huti00_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_huti00.png
+
+newmtl th_kiyka_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kiyuka.png
+
+newmtl th_mado_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_mado.png
+
+newmtl th_renga_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl th_soto00_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_soto00.png
+
+newmtl th_yuka01_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl th_akari03_5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd th_akari03.png
+
+newmtl th_ami00_5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_ami00.png
+
+newmtl th_huti00_5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_huti00.png
+
+newmtl th_kabe01_5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_rantan_5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_rantan.png
+
+newmtl th_renga_5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl th_teppan_5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_teppan.png
+
+newmtl th_yuka01_5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl kikiki_6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl teretere_6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_pic_t.png
+
+newmtl th_daikabe_6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_daikabe.png
+
+newmtl th_hon00_6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_hon00.png
+
+newmtl th_kabe01_6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_kiyka_6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kiyuka.png
+
+newmtl th_renga_6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl th_yuka01_6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+

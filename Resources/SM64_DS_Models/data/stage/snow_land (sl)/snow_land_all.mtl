@@ -1,0 +1,184 @@
+newmtl mat_ana
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ana.png
+
+newmtl mat_eye
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd eye.png
+
+newmtl mat_ice_b
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.3870968
+illum 2
+map_Kd ice.png
+
+newmtl mat_iwa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa.png
+
+newmtl mat_iwa2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa2.png
+
+newmtl mat_iwa2_tunagi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa2_tunagi.png
+
+newmtl mat_iwa_tinagi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa_tunagi.png
+
+newmtl mat_mouth
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mouth.png
+
+newmtl mat_renga
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga.png
+
+newmtl mat_renga_tunagi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga_tunagi.png
+
+newmtl mat_saku
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd saku.png
+
+newmtl mat_takigi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd takigi01.png
+
+newmtl mat_tatami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tatami.png
+
+newmtl mat_tatami_tu
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tatami_tu.png
+
+newmtl mat_tree
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.2903226
+illum 2
+map_Kd tree.png
+
+newmtl mat_tsurara
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tsurara.png
+
+newmtl mat_tuti
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tuti.png
+
+newmtl mat_water
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd water.png
+
+newmtl mat_water_damade
+Ka 0.4509804 0.4509804 0.4509804
+Kd 1 1 1
+Ks 0 0 0
+d 0.5483871
+illum 2
+map_Kd water_damage.png
+
+newmtl mat_woodwall
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wood.png
+
+newmtl mat_yuki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yuki.png
+
+newmtl mat_yukiiwa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yukiiwa.png
+
+newmtl mat_yukiiwa_t
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yukiiwa_t.png
+

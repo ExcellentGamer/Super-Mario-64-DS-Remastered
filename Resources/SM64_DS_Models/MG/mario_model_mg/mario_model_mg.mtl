@@ -1,0 +1,16 @@
+newmtl mario_all_tx
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_all_256p.png
+
+newmtl mario_eye_tx
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_eye_256p_0.png
+

@@ -1,0 +1,192 @@
+newmtl check
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl mat_d_kabe
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd d_sotokabe.png
+
+newmtl mat_d_kaitei
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd blue_wall.png
+
+newmtl mat_d_zepeki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mountain.png
+
+newmtl mat_sango
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd sango_yuka.png
+
+newmtl mat_sango_gl
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd sango_gl.png
+
+newmtl mat_zy_water_0
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+map_Kd water.png
+
+newmtl mat_zy_water_0_1
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+map_Kd water.png
+
+newmtl mat_zz_light_0
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.3870968
+illum 2
+map_Kd water_light.png
+
+newmtl check_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl lambert1
+Ka 0 0 0
+Kd 0.3882353 0.3882353 0.3882353
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl mat_ami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd amiami.png
+
+newmtl mat_d_kabe_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd d_sotokabe.png
+
+newmtl mat_d_kaitei_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd blue_wall.png
+
+newmtl mat_d_ueue
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tetu_wall.png
+
+newmtl mat_d_wood
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wood.png
+
+newmtl mat_sango_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd sango_yuka.png
+
+newmtl mat_sango_gl_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd sango_gl.png
+
+newmtl mat_sango_jj
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd sango.png
+
+newmtl mat_sitasita
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tetu_blue.png
+
+newmtl mat_tepan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tepan.png
+
+newmtl mat_zy_water_0_1_1
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+map_Kd water.png
+
+newmtl mat_zy_water_1
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+map_Kd water.png
+
+newmtl mat_zz_light_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.3870968
+illum 2
+map_Kd water_light.png
+

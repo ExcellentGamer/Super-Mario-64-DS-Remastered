@@ -1,0 +1,8 @@
+newmtl flower1
+Ka 0.7411765 0.7411765 0.7411765
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd f_parts.png
+

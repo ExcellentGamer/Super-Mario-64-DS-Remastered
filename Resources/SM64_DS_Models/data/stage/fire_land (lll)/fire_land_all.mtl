@@ -1,0 +1,168 @@
+newmtl isi_a_side
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd a_side.png
+
+newmtl mat_ami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd paipu.png
+
+newmtl mat_isi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isi_b.png
+
+newmtl mat_isi_a
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isi_a.png
+
+newmtl mat_isi_c
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isi_c.png
+
+newmtl mat_isi_d
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isi_d.png
+
+newmtl mat_isi_e
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isi_e.png
+
+newmtl mat_kabe01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kakou.png
+
+newmtl mat_kame
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd koura.png
+
+newmtl mat_ki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ki.png
+
+newmtl mat_renga04
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rennga.png
+
+newmtl mat_renga1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kurorenga_y.png
+
+newmtl mat_renga_ana
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ana.png
+
+newmtl mat_renga_kiwa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kiwa_rennga.png
+
+newmtl mat_siro_yoko
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd siro_yoko.png
+
+newmtl mat_suna
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd suna_a.png
+
+newmtl mat_teuita
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tetuita.png
+
+newmtl mat_yaji
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yazi.png
+
+newmtl mat_yama
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yama.png
+
+newmtl mat_yazi_yoko
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yazi_sokumen.png
+
+newmtl yogan00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.8064516
+illum 2
+map_Kd maguma.png
+

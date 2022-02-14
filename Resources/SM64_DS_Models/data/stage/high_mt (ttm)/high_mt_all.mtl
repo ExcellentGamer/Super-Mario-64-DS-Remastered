@@ -1,0 +1,144 @@
+newmtl mat_ami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ami.png
+
+newmtl mat_gake
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd gake_7.png
+
+newmtl mat_gake2
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd gake_up.png
+
+newmtl mat_hasi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tugime.png
+
+newmtl mat_ki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ki.png
+
+newmtl mat_kinoko
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kinoko.png
+
+newmtl mat_kinoko_kuki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kuki_1.png
+
+newmtl mat_kusa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kusa_1.png
+
+newmtl mat_miti
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd miti2.png
+
+newmtl mat_mokume
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mokume.png
+
+newmtl mat_renga_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rennga_1.png
+
+newmtl mat_renga_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rennga_2.png
+
+newmtl mat_saku
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd saku.png
+
+newmtl mat_tesuri
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tesuri.png
+
+newmtl mat_tree_shadow
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 0.2903226
+illum 2
+map_Kd tree_shadow.png
+
+newmtl mat_turu
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tuta_noboru.png
+
+newmtl mat_ura
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ura.png
+
+newmtl mat_water
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd water_cmp4.png
+

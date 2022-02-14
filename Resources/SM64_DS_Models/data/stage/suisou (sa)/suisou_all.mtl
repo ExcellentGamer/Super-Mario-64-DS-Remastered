@@ -1,0 +1,32 @@
+newmtl mat_hikari
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.516129
+illum 2
+
+
+newmtl mat_matsu
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd matsu.png
+
+newmtl mat_pole
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pole.png
+
+newmtl mat_renga
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga.png
+

@@ -1,0 +1,24 @@
+newmtl lambert2
+Ka 0.5803922 0.5803922 0.5803922
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vr_05.png
+
+newmtl mat_moon
+Ka 0.5803922 0.5803922 0.5803922
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vr_05_moon.png
+
+newmtl mat_moon_light
+Ka 0.5803922 0.5803922 0.5803922
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd moon_01.png
+

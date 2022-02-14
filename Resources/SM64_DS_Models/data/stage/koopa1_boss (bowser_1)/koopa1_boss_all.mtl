@@ -1,0 +1,24 @@
+newmtl cloud_wllA
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tile.png
+
+newmtl kp_rock
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwayuka.png
+
+newmtl kp_rock_side
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kabe.png
+

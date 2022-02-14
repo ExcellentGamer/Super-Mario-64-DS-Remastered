@@ -1,0 +1,8 @@
+newmtl mat_checker
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd checker_cmp4.png
+

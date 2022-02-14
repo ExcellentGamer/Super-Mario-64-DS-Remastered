@@ -1,0 +1,200 @@
+newmtl black_coler
+Ka 0 0 0
+Kd 0 0 0
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl ct_fusi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_fusi.png
+
+newmtl ct_miri
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_miri.png
+
+newmtl ct_saku
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_saku.png
+
+newmtl ct_soko_al
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.9354839
+illum 2
+map_Kd ct_soko_al.png
+
+newmtl h_ami01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_ami01.png
+
+newmtl h_dan01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_dan01.png
+
+newmtl h_dan02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_dan02.png
+
+newmtl h_kikai01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_kikai01.png
+
+newmtl h_mecha
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_mecha.png
+
+newmtl h_neji
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_neji.png
+
+newmtl h_tuya
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_tuya.png
+
+newmtl h_wood
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_wood.png
+
+newmtl h_wood02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_wood02.png
+
+newmtl h_yuka03
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_yuka03.png
+
+newmtl h_yuka04
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_yuka04.png
+
+newmtl moji12
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_moji12.png
+
+newmtl moji3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_moji3.png
+
+newmtl moji9
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_moji9.png
+
+newmtl mooji6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_moji6.png
+
+newmtl ten12
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_ten12.png
+
+newmtl ten3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_ten3.png
+
+newmtl ten6
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_ten6.png
+
+newmtl ten9
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ct_ten9.png
+
+newmtl waku
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd waku.png
+

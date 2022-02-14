@@ -1,0 +1,216 @@
+newmtl kikiki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl kiyuka
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kiyuka.png
+
+newmtl lambert1
+Ka 0 0 0
+Kd 0.3882353 0.3882353 0.3882353
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl teppan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_teppan.png
+
+newmtl th_daikabe
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_daikabe.png
+
+newmtl th_yuka
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl lambert1_1
+Ka 0 0 0
+Kd 0.3882353 0.3882353 0.3882353
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl th_kabe01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_yuka_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl kikiki_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl kiyuka_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kiyuka.png
+
+newmtl lambert1_2
+Ka 0 0 0
+Kd 0.3882353 0.3882353 0.3882353
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl renga
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl th_yuka_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl lambert1_3
+Ka 0 0 0
+Kd 0.3882353 0.3882353 0.3882353
+Ks 0 0 0
+d 1
+illum 2
+
+
+newmtl renga_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl teppan_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_teppan.png
+
+newmtl th_kabe01_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_yuka_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+
+newmtl karten
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd exl_maku.png
+
+newmtl kikiki_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kikiki.png
+
+newmtl renga_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl teretere
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_pic_t.png
+
+newmtl th_daikabe_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_daikabe.png
+
+newmtl th_kabe01_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+
+newmtl th_tesuri
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_tesuri00.png
+
+newmtl th_yuka_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_yuka01.png
+

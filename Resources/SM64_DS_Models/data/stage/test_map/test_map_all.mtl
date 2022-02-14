@@ -1,0 +1,264 @@
+newmtl c_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_c1_cmp4.png
+
+newmtl c_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_c2_cmp4.png
+
+newmtl c_2m
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_c2m_cmp4.png
+
+newmtl lambert11
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_Check_20_cmp4.png
+
+newmtl lambert4
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_Check3_cmp4.png
+
+newmtl lambert5
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_Check4_cmp4.png
+
+newmtl lambert53
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_c1m_cmp4.png
+
+newmtl lambert54
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_c4m_cmp4.png
+
+newmtl lambert55
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_check50_cmp4.png
+
+newmtl lambert56
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_Check2_cmp4.png
+
+newmtl lambert57
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_check_cmp4.png
+
+newmtl lambert58
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 0.516129
+illum 2
+map_Kd Txi_c1_wat_cmp4.png
+
+newmtl lambert7
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_Check_30_cmp4.png
+
+newmtl lambert78
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yajirusi.png
+
+newmtl lambert8
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_Check_10_cmp4.png
+
+newmtl lambert9
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_Check_25_cmp4.png
+
+newmtl mat_1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_1_cmp4.png
+
+newmtl mat_2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_2_cmp4.png
+
+newmtl mat_3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_3_cmp4.png
+
+newmtl mat_4
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_4_cmp4.png
+
+newmtl mat_ami
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd f_ice_ami.png
+
+newmtl mat_hana
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_hana_cmp4.png
+
+newmtl mat_iwa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_iwa_cmp4.png
+
+newmtl mat_ki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_ki_cmp4.png
+
+newmtl mat_kori
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_kori_cmp4.png
+
+newmtl mat_kusa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_kusa_cmp4.png
+
+newmtl mat_mizu
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_mizu_cmp4.png
+
+newmtl mat_mu
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mu.png
+
+newmtl mat_suna
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_suna_cmp4.png
+
+newmtl mat_tuti
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_tuti_cmp4.png
+
+newmtl mat_yuki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tex_yuki_cmp4.png
+
+newmtl saka_tmp_lambert10
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_Check_5_cmp4.png
+
+newmtl saka_tmp_lambert12
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd Txi_Check_15_cmp4.png
+
