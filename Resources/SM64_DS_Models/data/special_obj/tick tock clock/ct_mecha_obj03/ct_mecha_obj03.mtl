@@ -1,0 +1,24 @@
+newmtl h_kin
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_kin_cmp4.png
+
+newmtl h_panel01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd h_panel01_cmp4.png
+
+newmtl waku
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd waku_cmp4.png
+

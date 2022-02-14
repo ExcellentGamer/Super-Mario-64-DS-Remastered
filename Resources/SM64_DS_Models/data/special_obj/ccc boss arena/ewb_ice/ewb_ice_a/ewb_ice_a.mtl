@@ -1,0 +1,16 @@
+newmtl obj_daiza
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd daiza.png
+
+newmtl obj_ice
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ice.png
+

@@ -1,0 +1,19 @@
+#SM64DS Editor v2.3.5 2017-07-05
+
+mtllib obj_kumo.mtl
+
+bonelib obj_kumo.bones
+
+o e6_kumo
+v 100 -62.5 0
+v 100 62.5 0
+v -100 -62.5 0
+v -100 62.5 0
+vt 1 0.9882813
+vt 1 0
+vt 0 0.9882813
+vt 0 0
+vc 0.972549 0.972549 0.972549
+usemtl kumo
+f 1/1//1 2/2//1 3/3//1 
+f 4/4//1 3/3//1 2/2//1 

@@ -1,0 +1,19 @@
+#SM64DS Editor v2.3.5 2017-07-05
+
+mtllib snow_ball.mtl
+
+bonelib snow_ball.bones
+
+o snowball_model
+v -2.672119 2.672119 0
+v -2.672119 -2.672119 0
+v 2.672119 2.672119 0
+v 2.672119 -2.672119 0
+vt -1 0
+vt -1 1
+vt 1 0
+vt 1 1
+vc 0.972549 0.972549 0.972549
+usemtl mat_snowman
+f 1/1//1 2/2//1 3/3//1 
+f 4/4//1 3/3//1 2/2//1 

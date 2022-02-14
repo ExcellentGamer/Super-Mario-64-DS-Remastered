@@ -1,0 +1,8 @@
+newmtl mat_rock
+Ka 0.6784314 0.6784314 0.6784314
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rock.png
+

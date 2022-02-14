@@ -1,0 +1,16 @@
+newmtl mat_body
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd star_body04.png
+
+newmtl mat_eye
+Ka 0 0 0
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+
+

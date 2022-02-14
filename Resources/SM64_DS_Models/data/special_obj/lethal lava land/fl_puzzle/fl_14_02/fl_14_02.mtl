@@ -1,0 +1,8 @@
+newmtl mat_p02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd p02.png
+

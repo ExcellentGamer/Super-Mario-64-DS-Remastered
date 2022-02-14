@@ -1,0 +1,40 @@
+newmtl mat_f_ita
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd funeita.png
+
+newmtl mat_f_soto
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd funesoto.png
+
+newmtl mat_ita
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ita.png
+
+newmtl mat_mado
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mado.png
+
+newmtl mat_yuka
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yuka.png
+

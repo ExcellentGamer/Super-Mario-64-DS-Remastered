@@ -1,0 +1,16 @@
+newmtl bomb_king_mat02
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd bomb_king_02_cmp4.png
+
+newmtl bomb_king_mat01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd bomb_king_cmp4.png
+

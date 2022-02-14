@@ -1,0 +1,16 @@
+newmtl e_yuka2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yuka.png
+
+newmtl yuka3
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yuka_3.png
+

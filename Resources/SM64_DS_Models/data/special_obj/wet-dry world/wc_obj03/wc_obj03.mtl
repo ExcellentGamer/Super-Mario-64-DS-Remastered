@@ -1,0 +1,8 @@
+newmtl mat_uki
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.8064516
+illum 2
+map_Kd po_uki.png
+

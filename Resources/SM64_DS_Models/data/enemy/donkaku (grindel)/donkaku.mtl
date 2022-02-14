@@ -1,0 +1,24 @@
+newmtl c_iwa00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd c_iwa00.png
+
+newmtl face01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd face.png
+
+newmtl hotai
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hotai.png
+

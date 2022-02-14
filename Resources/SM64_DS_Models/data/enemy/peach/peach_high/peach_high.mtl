@@ -1,0 +1,144 @@
+newmtl mat00_Rarm
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat01_Larm
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat02_Larmskin
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat03_Lsleeve
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat04_brooch
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat05_Lfronthair
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat06_body
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat07_face
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_eye_0.png
+
+newmtl mat08_Rfronthair
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat09_skirt
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat10_Learring
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat11_neck
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat12_backhair
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat13_crown
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat14_barrette
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat15_Lponytail
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat16_Rsleeve
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+
+newmtl mat17_Rponytail
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach_all_high.png
+

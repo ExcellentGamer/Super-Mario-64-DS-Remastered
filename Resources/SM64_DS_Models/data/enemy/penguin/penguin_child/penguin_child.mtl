@@ -1,0 +1,16 @@
+newmtl mat_penguin_child
+Ka 0.8078431 0.8078431 0.8078431
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd penguin_child_tex_01.png
+
+newmtl mat_penguin_child_eyes
+Ka 0.8078431 0.8078431 0.8078431
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd penguin_child_eye_01.png
+

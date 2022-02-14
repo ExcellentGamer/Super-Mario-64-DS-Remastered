@@ -1,0 +1,16 @@
+newmtl obj_kupa_b
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kuppa_mark.png
+
+newmtl obj_tepan_b
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tepan.png
+

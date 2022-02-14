@@ -1,0 +1,168 @@
+newmtl m_cap_base
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_red_16.png
+
+newmtl m_cap_down
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_cap_3_16.png
+
+newmtl m_cap_mark
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_mark_16.png
+
+newmtl m_cap_top
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_cap_1_16.png
+
+newmtl m_ear
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_ear_16.png
+
+newmtl m_eye_l
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_eye_16.png
+
+newmtl m_eye_r
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_eye_16.png
+
+newmtl m_eyelid_l
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd eye_16_lid_0.png
+
+newmtl m_eyelid_r
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd eye_16_lid_0.png
+
+newmtl m_face_front
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_mouth_16.png
+
+newmtl m_face_side
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd momikage_16.png
+
+newmtl m_face_tongue
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_shita_16.png
+
+newmtl m_hada
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_hada_1_16.png
+
+newmtl m_hair_back
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hair_back_2_16.png
+
+newmtl m_hair_base
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hair_test_16.png
+
+newmtl m_hair_side
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd momiage_2_16.png
+
+newmtl m_hige
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_hige_16.png
+
+newmtl m_mayu
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_mayu_16.png
+
+newmtl m_nose_down
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_nose_2_16.png
+
+newmtl m_nose_top
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_nose_1_16.png
+
+newmtl m_tooth
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mario_ha_16.png
+

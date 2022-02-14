@@ -1,0 +1,72 @@
+newmtl mat_akari
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd akari.png
+
+newmtl mat_gate1
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd gate.png
+
+newmtl mat_i_block
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd i_block.png
+
+newmtl mat_i_hasira
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd i_hasira.png
+
+newmtl mat_i_obayuka07
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ki_yuka.png
+
+newmtl mat_i_ramp
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd i_ramp.png
+
+newmtl mat_i_yuka
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd i_yuka.png
+
+newmtl pol
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pol01.png
+
+newmtl pol_top
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd pol_top.png
+

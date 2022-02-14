@@ -1,0 +1,16 @@
+newmtl mat_manta01
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd manta_cmp4.png
+
+newmtl mat_manta02
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd manta_cmp4.png
+

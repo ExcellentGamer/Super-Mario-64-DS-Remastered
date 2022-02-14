@@ -1,0 +1,19 @@
+#SM64DS Editor v2.3.5 2017-07-05
+
+mtllib wc_mizu.mtl
+
+bonelib wc_mizu.bones
+
+o world_root
+v -468.75 0 562.5
+v 562.5 0 562.5
+v -468.75 0 -468.75
+v 562.5 0 -468.75
+vt -7.5 10
+vt 9 10
+vt -7.5 -6.5
+vt 9 -6.5
+vc 0.972549 0.972549 0.972549
+usemtl mat_water
+f 1/1//1 2/2//1 3/3//1 
+f 4/4//1 3/3//1 2/2//1 

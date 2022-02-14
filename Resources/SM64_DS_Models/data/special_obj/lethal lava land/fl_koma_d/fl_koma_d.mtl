@@ -1,0 +1,16 @@
+newmtl obj_renga
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kurorenga_y.png
+
+newmtl obj_teuita
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tetuita.png
+

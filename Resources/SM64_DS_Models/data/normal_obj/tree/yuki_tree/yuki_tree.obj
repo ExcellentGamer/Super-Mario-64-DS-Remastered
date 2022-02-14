@@ -1,0 +1,19 @@
+#SM64DS Editor v2.3.5 2017-07-05
+
+mtllib yuki_tree.mtl
+
+bonelib yuki_tree.bones
+
+o yuki_tree
+v 60.88672 0 0
+v 0 100.0469 0
+v 0 0 0
+v -60.88672 0 0
+vt 1.935547 1
+vt 0.5058594 -0.2304688
+vt 0.5058594 1
+vt -0.921875 1
+vc 0.972549 0.972549 0.972549
+usemtl mat_yuki_tree
+f 1/1//1 2/2//1 3/3//1 
+f 4/4//1 3/3//1 2/2//1 

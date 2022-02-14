@@ -1,0 +1,8 @@
+newmtl starbox_env_1
+Ka 0.9372549 0.9372549 0.9372549
+Kd 1 1 1
+Ks 0 0 0
+d 0.7096774
+illum 2
+map_Kd starbox_env1.png
+

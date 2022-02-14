@@ -1,0 +1,24 @@
+newmtl a_mat_body
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wanwan_body.png
+
+newmtl a_mat_eye
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wanwan_eye.png
+
+newmtl a_mat_mouth
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wanwan_mouth.png
+

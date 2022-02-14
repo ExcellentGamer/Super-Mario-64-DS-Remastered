@@ -1,0 +1,16 @@
+newmtl mat_line
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd line.png
+
+newmtl mat_teppan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tetuwaku.png
+

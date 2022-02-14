@@ -1,0 +1,40 @@
+newmtl mat_tere_1body
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd teresa_cmp4.png
+
+newmtl mat_tere_2hand
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd teresa_cmp4.png
+
+newmtl mat_tere_3tooth
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd teresa_cmp4.png
+
+newmtl mat_tere_4mouth
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd teresa_cmp4.png
+
+newmtl mat_tere_5tail
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd teresa_cmp4.png
+

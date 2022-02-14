@@ -1,0 +1,8 @@
+newmtl mat_door0_star10
+Ka 0.7098039 0.7098039 0.7098039
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd door0_star10.png
+

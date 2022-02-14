@@ -1,0 +1,184 @@
+newmtl mat_fence
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd fence.png
+
+newmtl mat_fence_thorn
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd fence_thorn.png
+
+newmtl mat_flower_leaf
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd flower_leaf.png
+
+newmtl mat_flower_top
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd flower.png
+
+newmtl mat_grass
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd grass.png
+
+newmtl mat_rock_a
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rock_a.png
+
+newmtl mat_rock_a_grass
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rock_a_grass.png
+
+newmtl mat_rock_b
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rock_b.png
+
+newmtl mat_rock_cannon
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rock_cannon.png
+
+newmtl mat_roller
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd roller.png
+
+newmtl mat_slope
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd slope.png
+
+newmtl mat_slope_grass
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd slope_grass.png
+
+newmtl mat_slope_soil
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd slope_soil.png
+
+newmtl mat_soil
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd soil.png
+
+newmtl mat_start
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd start.png
+
+newmtl mat_start_grass
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd start_grass.png
+
+newmtl mat_tonnel_grass
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tonnel_grass.png
+
+newmtl mat_tree_shadow
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 0.2903226
+illum 2
+map_Kd tree_shadow.png
+
+newmtl mat_tunnel
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tonnel.png
+
+newmtl mat_wall_grass_a
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wall_grass_a.png
+
+newmtl mat_wall_grass_b
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wall_grass_b.png
+
+newmtl mat_way
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd way.png
+
+newmtl mat_wood
+Ka 0.2901961 0.2901961 0.2901961
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wood.png
+

@@ -1,0 +1,16 @@
+newmtl tornado_00u
+Ka 0.7411765 0.7411765 0.7411765
+Kd 1 1 1
+Ks 0 0 0
+d 0.8064516
+illum 2
+map_Kd ik_tatsumaki3.png
+
+newmtl tornado_01o
+Ka 0.8392157 0.8392157 0.8392157
+Kd 1 1 1
+Ks 0 0 0
+d 0.8064516
+illum 2
+map_Kd ik_tatsumaki3.png
+

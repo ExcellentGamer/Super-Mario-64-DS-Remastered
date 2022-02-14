@@ -1,0 +1,16 @@
+newmtl hatena_karabox
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hatena_kara.png
+
+newmtl mat_hatena
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hatena_mark.png
+

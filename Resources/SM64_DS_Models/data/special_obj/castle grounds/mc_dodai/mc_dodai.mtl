@@ -1,0 +1,24 @@
+newmtl renga_dan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga_sand_dan.png
+
+newmtl renga_sand
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga_sand.png
+
+newmtl renga_sk
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga_shik00.png
+

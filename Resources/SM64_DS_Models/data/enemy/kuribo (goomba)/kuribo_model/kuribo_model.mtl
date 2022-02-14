@@ -1,0 +1,8 @@
+newmtl kuribo_all
+Ka 0.5176471 0.5176471 0.5176471
+Kd 0 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kuribo_cmp4.png
+

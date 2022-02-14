@@ -1,0 +1,96 @@
+newmtl cockscomb
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_tosaka.png
+
+newmtl eye_L
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_eye_1.png
+
+newmtl eye_R
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_eye_1.png
+
+newmtl face_side
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_faceside.png
+
+newmtl head_back
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_headback.png
+
+newmtl head_front
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_headfront.png
+
+newmtl head_top
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_head.png
+
+newmtl lips
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_lips.png
+
+newmtl mouth
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_mouth.png
+
+newmtl nose
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_nosetop2.png
+
+newmtl nose_top
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_nosetop.png
+
+newmtl tongue
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_tang.png
+

@@ -1,0 +1,256 @@
+newmtl carpet
+Ka 0.5176471 0.5176471 0.5176471
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_cpt.png
+
+newmtl conc_wall
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_conc.png
+
+newmtl door0_khole
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd v_door0_k.png
+
+newmtl door3_tetsu
+Ka 0.5176471 0.5176471 0.5176471
+Kd 0.8078431 0.8078431 0.8078431
+Ks 0 0 0
+d 1
+illum 2
+map_Kd v_door3_t.png
+
+newmtl gake_00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_gake.png
+
+newmtl grass
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_grass.png
+
+newmtl k_net
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_net.png
+
+newmtl mat_door0
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd v_door0.png
+
+newmtl mc_bridge
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_kihasi.png
+
+newmtl mc_fence
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_fence.png
+
+newmtl mc_flow_a
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_flowa.png
+
+newmtl mc_flow_b
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_flowb.png
+
+newmtl mc_hazad
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_hazad.png
+
+newmtl mc_kakine00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_kakine00.png
+
+newmtl mc_kakine01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_kakine01.png
+
+newmtl mc_road
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_road.png
+
+newmtl mc_roof
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_roof.png
+
+newmtl mc_sand
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_sand.png
+
+newmtl mc_sand_d
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_sand_d.png
+
+newmtl mc_til_str
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_tilstr.png
+
+newmtl mc_tile00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_til00.png
+
+newmtl mc_window
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_window.png
+
+newmtl peach
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd peach.png
+
+newmtl renga_dan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd v_rng_s_d.png
+
+newmtl renga_g
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd v_renga_g.png
+
+newmtl renga_sand
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd v_renga_s.png
+
+newmtl renga_sk
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga_shik00.png
+
+newmtl tree_shadow
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.3870968
+illum 2
+map_Kd tree_shadow.png
+
+newmtl tri_tile
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd vmc_tri.png
+
+newmtl water_mat
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd vmc_water.png
+
+newmtl water_sl_mat
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd vmc_water.png
+
+newmtl yama
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd mc_yama.png
+

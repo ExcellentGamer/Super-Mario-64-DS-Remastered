@@ -1,0 +1,19 @@
+#SM64DS Editor v2.3.5 2017-07-05
+
+mtllib oneup_kinoko.mtl
+
+bonelib oneup_kinoko.bones
+
+o oneup_kinoko
+v -4.375 8.75 0
+v -4.375 0 0
+v 4.375 8.75 0
+v 4.375 0 0
+vt 0.015625 0.01464844
+vt 0.015625 0.9853516
+vt 0.984375 0.01464844
+vt 0.984375 0.9853516
+vc 0.7843137 0.7843137 0.7843137
+usemtl mat_kinoko
+f 1/1//1 2/2//1 3/3//1 
+f 4/4//1 3/3//1 2/2//1 

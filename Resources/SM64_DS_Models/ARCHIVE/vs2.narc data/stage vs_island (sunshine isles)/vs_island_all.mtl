@@ -1,0 +1,88 @@
+newmtl green
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kusa.png
+
+newmtl hitode
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd hitode02.png
+
+newmtl iwa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd iwa_2.png
+
+newmtl j_suna02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd siro_suna.png
+
+newmtl kage
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kage.png
+
+newmtl kusa_suna
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kusa_suna.png
+
+newmtl sango
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd sango.png
+
+newmtl tutikabe
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tutikabe.png
+
+newmtl water_mat
+Ka 0.6470588 0.6470588 0.6470588
+Kd 1 1 1
+Ks 0 0 0
+d 0.2903226
+illum 2
+map_Kd water.png
+
+newmtl yasi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yasi_00.png
+
+newmtl yasi_01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yasi_01.png
+

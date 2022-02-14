@@ -1,0 +1,32 @@
+newmtl mat_eye_l
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kuriking_eye_1.png
+
+newmtl mat_eye_r
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kuriking_eye_1.png
+
+newmtl mat_face
+Ka 0.1921569 0.1921569 0.1921569
+Kd 0.8078431 0.3882353 0.0627451
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kuriking_face.png
+
+newmtl mat_other
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd kuriking_other.png
+

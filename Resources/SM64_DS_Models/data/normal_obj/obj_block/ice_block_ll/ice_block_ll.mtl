@@ -1,0 +1,8 @@
+newmtl ice_env_1
+Ka 0.3882353 0.4509804 0.5490196
+Kd 1 1 1
+Ks 0 0 0
+d 0.8387097
+illum 2
+map_Kd ice_env2.png
+

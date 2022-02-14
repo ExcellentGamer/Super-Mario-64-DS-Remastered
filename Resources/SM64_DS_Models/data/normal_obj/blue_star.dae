@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--SM64DS Editor v2.3 BETA 2015-10-31-->
+<COLLADA version="1.4.1" xmlns="http://www.collada.org/2005/11/COLLADASchema">
+	<asset>
+		<contributor>
+			<author>Fiachra</author>
+			<authoring_tool>SM64DS Editor v2.3 BETA 2015-10-31</authoring_tool>
+		</contributor>
+		<created>2017-09-12T13:42:19</created>
+		<modified>2017-09-12T13:42:19</modified>
+		<unit name="meter" meter="1" />
+		<up_axis>Y_UP</up_axis>
+	</asset>
+	<library_images />
+	<library_effects>
+		<effect id="lambert57-effect">
+			<profile_COMMON>
+				<technique sid="common">
+					<phong>
+						<emission>
+							<color sid="emission">0 0 0 1.0</color>
+						</emission>
+						<ambient>
+							<color sid="ambient">0 0 0 1.0</color>
+						</ambient>
+						<diffuse>
+							<color sid="diffuse">0.2235294 0.2901961 0.6470588 1.0</color>
+						</diffuse>
+						<specular>
+							<color sid="specular">0 0 0 1.0</color>
+						</specular>
+						<transparency>
+							<float sid="transparency">0.6470588</float>
+						</transparency>
+					</phong>
+				</technique>
+				<extra>
+					<technique profile="SM64DSe">
+						<lights>1 0 0 0</lights>
+						<environment_mapping>0</environment_mapping>
+						<double_sided>0</double_sided>
+						<tex_tiling>clamp clamp</tex_tiling>
+						<tex_scale>1 1</tex_scale>
+						<tex_rotate>0</tex_rotate>
+						<tex_translate>0 0</tex_translate>
+					</technique>
+				</extra>
+			</profile_COMMON>
+		</effect>
+	</library_effects>
+	<library_materials>
+		<material id="lambert57-material" name="lambert57">
+			<instance_effect url="#lambert57-effect" />
+		</material>
+	</library_materials>
+	<library_geometries>
+		<geometry id="star_kara_model-mesh" name="star_kara_model-mesh">
+			<mesh>
+				<source id="star_kara_model-mesh-positions">
+					<float_array id="star_kara_model-mesh-positions-array" count="126">-6.468262 -7.420898 0 0 1.595703 -2.814453 0 -5.027344 0 0 -5.027344 0 6.468262 -7.420898 0 6.468262 -7.420898 0 5.736816 -0.8632813 0 5.736816 -0.8632813 0 10.46582 4.870605 0 10.46582 4.870605 0 3.54541 5.874023 0 3.54541 5.874023 0 0 12.46729 0 0 12.46729 0 -3.54541 5.874023 0 -3.54541 5.874023 0 -10.46582 4.870605 0 -10.46582 4.870605 0 -5.736816 -0.8632813 0 -5.736816 -0.8632813 0 -6.468262 -7.420898 0 -6.468262 -7.420898 0 0 -5.027344 0 0 1.595703 2.814453 0 -5.027344 0 6.468262 -7.420898 0 6.468262 -7.420898 0 5.736816 -0.8632813 0 5.736816 -0.8632813 0 10.46582 4.870605 0 10.46582 4.870605 0 3.54541 5.874023 0 3.54541 5.874023 0 0 12.46729 0 0 12.46729 0 -3.54541 5.874023 0 -3.54541 5.874023 0 -10.46582 4.870605 0 -10.46582 4.870605 0 -5.736816 -0.8632813 0 -5.736816 -0.8632813 0 -6.468262 -7.420898 0</float_array>
+					<technique_common>
+						<accessor source="#star_kara_model-mesh-positions-array" count="42" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="star_kara_model-mesh-normals">
+					<float_array id="star_kara_model-mesh-normals-array" count="126">9.125 -24.75 -58.25 0 1.25 -64 9.125 -24.75 -58.25 -9.125 -24.75 -58.25 -9.125 -24.75 -58.25 29.25 3.25 -56.875 29.25 3.25 -56.875 21 -17.375 -57.875 21 -17.375 -57.875 4.75 32.375 -55 4.75 32.375 -55 27 14.5 -56.125 27 14.5 -56.125 -27 14.5 -56.125 -27 14.5 -56.125 -4.75 32.375 -55 -4.75 32.375 -55 -21 -17.375 -57.875 -21 -17.375 -57.875 -29.25 3.25 -56.875 -29.25 3.25 -56.875 9.125 -24.75 58.25 9.125 -24.75 58.25 0 1.25 63.875 -9.125 -24.75 58.25 -9.125 -24.75 58.25 29.25 3.25 56.875 29.25 3.25 56.875 21 -17.375 57.875 21 -17.375 57.875 4.75 32.375 55 4.75 32.375 55 27 14.5 56.125 27 14.5 56.125 -27 14.5 56.125 -27 14.5 56.125 -4.75 32.375 55 -4.75 32.375 55 -21 -17.375 57.875 -21 -17.375 57.875 -29.25 3.25 56.875 -29.25 3.25 56.875</float_array>
+					<technique_common>
+						<accessor source="#star_kara_model-mesh-normals-array" count="42" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="star_kara_model-mesh-map-0">
+					<float_array id="star_kara_model-mesh-map-0-array" count="84">0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</float_array>
+					<technique_common>
+						<accessor source="#star_kara_model-mesh-map-0-array" count="42" stride="2">
+							<param name="S" type="float" />
+							<param name="T" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="star_kara_model-mesh-colors">
+					<float_array id="star_kara_model-mesh-colors-array" count="126">0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588 0.2235294 0.2901961 0.6470588</float_array>
+					<technique_common>
+						<accessor source="#star_kara_model-mesh-colors-array" count="42" stride="3">
+							<param name="R" type="float" />
+							<param name="G" type="float" />
+							<param name="B" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="star_kara_model-mesh-vertices">
+					<input semantic="POSITION" source="#star_kara_model-mesh-positions" />
+				</vertices>
+				<polylist material="lambert57-material" count="20">
+					<input semantic="VERTEX" source="#star_kara_model-mesh-vertices" offset="0" />
+					<input semantic="NORMAL" source="#star_kara_model-mesh-normals" offset="1" />
+					<input semantic="COLOR" source="#star_kara_model-mesh-colors" offset="2" />
+					<vcount>3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3</vcount>
+					<p>0 0 0 1 1 0 2 0 0 2 3 0 1 1 0 4 3 0 4 5 0 1 1 0 6 5 0 6 7 0 1 1 0 8 7 0 8 9 0 1 1 0 10 9 0 10 11 0 1 1 0 12 11 0 12 13 0 1 1 0 14 13 0 14 15 0 1 1 0 16 15 0 16 17 0 1 1 0 18 17 0 18 19 0 1 1 0 0 19 0 0 21 0 2 21 0 23 23 0 2 24 0 4 24 0 23 23 0 4 26 0 6 26 0 23 23 0 6 28 0 8 28 0 23 23 0 8 30 0 10 30 0 23 23 0 10 32 0 12 32 0 23 23 0 12 34 0 14 34 0 23 23 0 14 36 0 16 36 0 23 23 0 16 38 0 18 38 0 23 23 0 18 40 0 0 40 0 23 23 0</p>
+				</polylist>
+			</mesh>
+		</geometry>
+	</library_geometries>
+	<library_controllers>
+		<controller id="star_kara_model-skin" name="skinCluster_star_kara_model">
+			<skin source="#star_kara_model-mesh">
+				<bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+				<source id="star_kara_model-skin-joints">
+					<IDREF_array id="star_kara_model-skin-joints-array" count="1">star_kara_model</IDREF_array>
+					<technique_common>
+						<accessor source="#star_kara_model-skin-joints-array" count="1" stride="1">
+							<param name="JOINT" type="Name" />
+						</accessor>
+					</technique_common>
+				</source>
+				<!--The inverse bind pose for a joint is given by the inverse bind pose of the parent joint (where present) multiplied by the inverse of the current joint's transformation matrix.-->
+				<source id="star_kara_model-skin-bind_poses">
+					<float_array id="star_kara_model-skin-bind_poses-array" count="16">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</float_array>
+					<technique_common>
+						<accessor source="#star_kara_model-skin-bind_poses-array" count="1" stride="16">
+							<param name="TRANSFORM" type="float4x4" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="star_kara_model-skin-weights">
+					<!--The BMD format does not have any concept of 'weights', instead each vertex is assigned to one bone-->
+					<float_array id="star_kara_model-skin-weights-array" count="1">1</float_array>
+					<technique_common>
+						<accessor source="#star_kara_model-skin-weights-array" count="1" stride="1">
+							<param name="WEIGHT" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<joints>
+					<input semantic="JOINT" source="#star_kara_model-skin-joints" />
+					<input semantic="INV_BIND_MATRIX" source="#star_kara_model-skin-bind_poses" />
+				</joints>
+				<!--Each vertex will be assigned to only one bone with a weight of 1-->
+				<vertex_weights count="42">
+					<input semantic="JOINT" source="#star_kara_model-skin-joints" offset="0" />
+					<input semantic="WEIGHT" source="#star_kara_model-skin-weights" offset="1" />
+					<vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+					<!--This list contains two values for each vertex, the first is the bone ID and the second is the index of the vertex weight '1' (0)-->
+					<v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+				</vertex_weights>
+			</skin>
+		</controller>
+	</library_controllers>
+	<library_visual_scenes>
+		<visual_scene id="Scene" name="Scene">
+			<!--This lists each of the 'bones' in the BMD model, listing each bone's individual Scale, Rotation, Translation transformation in the reverse of the order in which they should be multiplied to form an SRT  matrix. This will then be multiplied recursively by the parents' transformations to get the final transformation for this joint.-->
+			<node id="star_kara_model" name="star_kara_model" sid="star_kara_model" type="JOINT">
+				<translate sid="translate">0 0 0</translate>
+				<rotate sid="rotationZ">0 0 1 0</rotate>
+				<rotate sid="rotationY">0 1 0 0</rotate>
+				<rotate sid="rotationX">1 0 0 0</rotate>
+				<scale sid="scale">1 1 1</scale>
+			</node>
+			<node id="star_kara_model-node" name="star_kara_model-node" type="NODE">
+				<instance_controller url="#star_kara_model-skin">
+					<skeleton>#star_kara_model</skeleton>
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="lambert57-material" target="#lambert57-material">
+								<bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0" />
+							</instance_material>
+						</technique_common>
+					</bind_material>
+				</instance_controller>
+			</node>
+		</visual_scene>
+	</library_visual_scenes>
+	<scene>
+		<instance_visual_scene url="#Scene" />
+	</scene>
+</COLLADA>

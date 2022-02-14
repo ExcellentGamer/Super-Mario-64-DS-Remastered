@@ -1,0 +1,16 @@
+newmtl mat_yuka5
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd itimatu.png
+
+newmtl mat_yuka_ue
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yuka.png
+

@@ -1,0 +1,19 @@
+#SM64DS Editor v2.3.5 2017-07-05
+
+mtllib hs_star.mtl
+
+bonelib hs_star.bones
+
+o hs_star_s
+v 62.5 -62.5 0
+v 62.5 62.5 0
+v -62.5 -62.5 0
+v -62.5 62.5 0
+vt 1 1
+vt 1 0
+vt 0 1
+vt 0 0
+vc 0.972549 0.972549 0.972549
+usemtl mat_star
+f 1/1//1 2/2//1 3/3//1 
+f 4/4//1 3/3//1 2/2//1 

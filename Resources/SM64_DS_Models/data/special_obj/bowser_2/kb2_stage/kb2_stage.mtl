@@ -1,0 +1,32 @@
+newmtl a_kabe05
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd tetuita.png
+
+newmtl a_renga04
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd isi_d.png
+
+newmtl a_yogan02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ki.png
+
+newmtl yougan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd katamari.png
+

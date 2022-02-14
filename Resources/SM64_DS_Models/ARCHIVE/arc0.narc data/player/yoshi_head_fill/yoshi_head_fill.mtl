@@ -1,0 +1,16 @@
+newmtl yoshi_all_tx-material
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_all_16p.png
+
+newmtl yoshi_eye_tx-material
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd yoshi_eye_16p_1.png
+

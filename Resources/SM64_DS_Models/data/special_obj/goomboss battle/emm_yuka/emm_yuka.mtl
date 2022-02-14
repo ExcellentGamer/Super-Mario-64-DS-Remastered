@@ -1,0 +1,16 @@
+newmtl mar_yuka01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd emm_yuka01.png
+
+newmtl mat_wood_side
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wood_side.png
+

@@ -1,0 +1,16 @@
+newmtl th_hon00
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_hon00.png
+
+newmtl th_kabe01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_kabe01.png
+

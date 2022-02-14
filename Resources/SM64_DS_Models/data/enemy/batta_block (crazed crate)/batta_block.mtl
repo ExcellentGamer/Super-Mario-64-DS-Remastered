@@ -1,0 +1,8 @@
+newmtl mat_batta_brock
+Ka 0.5490196 0.5490196 0.5490196
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd batuta_brock.png
+

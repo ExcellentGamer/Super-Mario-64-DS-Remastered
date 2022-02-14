@@ -1,0 +1,8 @@
+newmtl water_bomb_mat
+Ka 0.6470588 0.6470588 0.6470588
+Kd 1 1 1
+Ks 0 0 0
+d 0.6129032
+illum 2
+map_Kd water_bomb_cmp4.png
+

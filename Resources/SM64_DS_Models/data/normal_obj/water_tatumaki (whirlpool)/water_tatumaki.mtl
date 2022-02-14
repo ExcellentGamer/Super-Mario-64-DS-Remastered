@@ -1,0 +1,16 @@
+newmtl uzumaki
+Ka 0.6470588 0.6470588 0.6470588
+Kd 1 1 1
+Ks 0 0 0
+d 0.9032258
+illum 2
+map_Kd ik_md_uzu2.png
+
+newmtl uzumaki1
+Ka 0.6470588 0.6470588 0.6470588
+Kd 1 1 1
+Ks 0 0 0
+d 0.9032258
+illum 2
+map_Kd ik_md_uzu2.png
+

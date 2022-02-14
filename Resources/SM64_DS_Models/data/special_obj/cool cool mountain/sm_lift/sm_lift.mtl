@@ -1,0 +1,32 @@
+newmtl obj_lift_ita
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd lift_ita.png
+
+newmtl obj_lift_mizo
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd lift_mizo.png
+
+newmtl obj_lift_tesuri
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd lift_tesuri.png
+
+newmtl obj_lift_wa
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd lift_wa.png
+

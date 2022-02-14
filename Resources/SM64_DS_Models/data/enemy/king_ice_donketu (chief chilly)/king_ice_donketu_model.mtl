@@ -1,0 +1,16 @@
+newmtl mat_king_ice1
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ice_donketu.png
+
+newmtl mat_king_ice2
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ice_donketu2.png
+

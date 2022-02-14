@@ -1,0 +1,240 @@
+newmtl ami_tesuri
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ami_tesuri.png
+
+newmtl amite
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd bk_amite.png
+
+newmtl bldtex01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd n_bldtex01.png
+
+newmtl bldtex02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd n_bldtex02.png
+
+newmtl dodai01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd dodai01.png
+
+newmtl flow_a
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd bk_flow_a.png
+
+newmtl flow_b
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd bk_flow_b.png
+
+newmtl i_ground
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd n_i_ground.png
+
+newmtl iron_ami01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd bk_ami01.png
+
+newmtl kabe01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd n_kabe01.png
+
+newmtl kabe02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd z_kabe.png
+
+newmtl kabe02_a
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd z_kabe02_s.png
+
+newmtl kabe03
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd z_kabe03.png
+
+newmtl kabe_tunagi
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd z_kabe02.png
+
+newmtl midori01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd z_midori.png
+
+newmtl oakgrain01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd oak01.png
+
+newmtl obj_cannon
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd cannon.png
+
+newmtl obj_ganseki01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd ganseki01.png
+
+newmtl obj_kabe03
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd a_kabe03.png
+
+newmtl renga010_dark
+Ka 0 0 0
+Kd 0.8078431 0.7764706 0
+Ks 0 0 0
+d 0.3870968
+illum 2
+
+
+newmtl renga02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd n_renga02.png
+
+newmtl renga04
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd n_renga04.png
+
+newmtl renga05
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd n_renga05.png
+
+newmtl renga07
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd renga07.png
+
+newmtl renga09
+Ka 0 0 0
+Kd 1 0.9686275 0
+Ks 0 0 0
+d 0.3870968
+illum 2
+
+
+newmtl saku01
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd n_bk_saku01.png
+
+newmtl sand
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd z_sand.png
+
+newmtl sand_a
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd z_sand_a.png
+
+newmtl tree_shadow
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 0.3870968
+illum 2
+map_Kd tree_shadow.png
+
+newmtl water_mat
+Ka 0.5176471 0.5176471 0.5176471
+Kd 1 1 1
+Ks 0 0 0
+d 0.483871
+illum 2
+map_Kd water02.png
+

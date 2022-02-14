@@ -1,0 +1,8 @@
+newmtl lambert59
+Ka 0.7098039 0.7098039 0.7098039
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd star_switch.png
+

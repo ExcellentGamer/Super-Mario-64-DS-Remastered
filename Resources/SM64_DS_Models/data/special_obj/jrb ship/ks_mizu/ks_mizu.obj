@@ -1,0 +1,19 @@
+#SM64DS Editor v2.3.5 2017-07-05
+
+mtllib ks_mizu.mtl
+
+bonelib ks_mizu.bones
+
+o world_root
+v 500 0 500
+v 500 0 -500
+v -500 0 500
+v -500 0 -500
+vt 4 5
+vt 4 -3
+vt -4 5
+vt -4 -3
+vc 0.972549 0.972549 0.972549
+usemtl water_mat
+f 1/1//1 2/2//1 3/3//1 
+f 4/4//1 3/3//1 2/2//1 

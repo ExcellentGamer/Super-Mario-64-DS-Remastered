@@ -1,0 +1,16 @@
+newmtl mat_ita
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd wood.png
+
+newmtl mat_wa
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd rc_wa.png
+

@@ -1,0 +1,16 @@
+newmtl th_renga
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_renga.png
+
+newmtl th_teppan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd th_teppan.png
+

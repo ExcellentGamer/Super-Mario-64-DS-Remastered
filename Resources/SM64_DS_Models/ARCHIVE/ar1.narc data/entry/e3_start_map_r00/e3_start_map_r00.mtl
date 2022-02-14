@@ -1,0 +1,56 @@
+newmtl curtain
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd curtain_cmp4.png
+
+newmtl frame_mat
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd frame_cmp4.png
+
+newmtl l_checker
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd l_checker_cmp4.png
+
+newmtl l_jyuutan
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd l_jyuutan_cmp4.png
+
+newmtl l_pole2
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd l_pole2_cmp4.png
+
+newmtl l_pole2_dai
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd l_pole2_dai_cmp4.png
+
+newmtl l_tile02
+Ka 0 0 0
+Kd 1 1 1
+Ks 0 0 0
+d 1
+illum 2
+map_Kd l_tile02_cmp4.png
+

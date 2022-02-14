@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--SM64DS Editor ULTIMATE v2.3.8 Aug 19, 2020-->
+<COLLADA version="1.4.1" xmlns="http://www.collada.org/2005/11/COLLADASchema">
+	<asset>
+		<contributor>
+			<author>Fiachra</author>
+			<authoring_tool>SM64DS Editor ULTIMATE v2.3.8 Aug 19, 2020</authoring_tool>
+		</contributor>
+		<created>2021-08-19T07:50:23</created>
+		<modified>2021-08-19T07:50:23</modified>
+		<unit name="meter" meter="1" />
+		<up_axis>Y_UP</up_axis>
+	</asset>
+	<library_images />
+	<library_effects>
+		<effect id="material-0-effect">
+			<profile_COMMON>
+				<technique sid="common">
+					<phong>
+						<emission>
+							<color sid="emission">0 0 0 1.0</color>
+						</emission>
+						<ambient>
+							<color sid="ambient">1 1 1 1.0</color>
+						</ambient>
+						<diffuse>
+							<color sid="diffuse">1 1 0 1.0</color>
+						</diffuse>
+						<specular>
+							<color sid="specular">0 0 0 1.0</color>
+						</specular>
+						<transparency>
+							<float sid="transparency">1</float>
+						</transparency>
+					</phong>
+				</technique>
+				<extra>
+					<technique profile="SM64DSe">
+						<lights>0 0 0 0</lights>
+						<environment_mapping>0</environment_mapping>
+						<double_sided>0</double_sided>
+						<tex_tiling>repeat repeat</tex_tiling>
+						<tex_scale>1 1</tex_scale>
+						<tex_rotate>0</tex_rotate>
+						<tex_translate>0 0</tex_translate>
+						<fog_enable>1</fog_enable>
+					</technique>
+				</extra>
+			</profile_COMMON>
+		</effect>
+		<effect id="material-1-effect">
+			<profile_COMMON>
+				<technique sid="common">
+					<phong>
+						<emission>
+							<color sid="emission">0 0 0 1.0</color>
+						</emission>
+						<ambient>
+							<color sid="ambient">1 1 1 1.0</color>
+						</ambient>
+						<diffuse>
+							<color sid="diffuse">0.8470588 0.8078431 0.1607843 1.0</color>
+						</diffuse>
+						<specular>
+							<color sid="specular">0 0 0 1.0</color>
+						</specular>
+						<transparency>
+							<float sid="transparency">1</float>
+						</transparency>
+					</phong>
+				</technique>
+				<extra>
+					<technique profile="SM64DSe">
+						<lights>0 0 0 0</lights>
+						<environment_mapping>0</environment_mapping>
+						<double_sided>0</double_sided>
+						<tex_tiling>repeat repeat</tex_tiling>
+						<tex_scale>1 1</tex_scale>
+						<tex_rotate>0</tex_rotate>
+						<tex_translate>0 0</tex_translate>
+						<fog_enable>1</fog_enable>
+					</technique>
+				</extra>
+			</profile_COMMON>
+		</effect>
+		<effect id="material-2-effect">
+			<profile_COMMON>
+				<technique sid="common">
+					<phong>
+						<emission>
+							<color sid="emission">0 0 0 1.0</color>
+						</emission>
+						<ambient>
+							<color sid="ambient">1 1 1 1.0</color>
+						</ambient>
+						<diffuse>
+							<color sid="diffuse">0.6941177 0.6156863 0.3215686 1.0</color>
+						</diffuse>
+						<specular>
+							<color sid="specular">0 0 0 1.0</color>
+						</specular>
+						<transparency>
+							<float sid="transparency">1</float>
+						</transparency>
+					</phong>
+				</technique>
+				<extra>
+					<technique profile="SM64DSe">
+						<lights>0 0 0 0</lights>
+						<environment_mapping>0</environment_mapping>
+						<double_sided>0</double_sided>
+						<tex_tiling>repeat repeat</tex_tiling>
+						<tex_scale>1 1</tex_scale>
+						<tex_rotate>0</tex_rotate>
+						<tex_translate>0 0</tex_translate>
+						<fog_enable>1</fog_enable>
+					</technique>
+				</extra>
+			</profile_COMMON>
+		</effect>
+	</library_effects>
+	<library_materials>
+		<material id="material-0-material" name="material-0">
+			<instance_effect url="#material-0-effect" />
+		</material>
+		<material id="material-1-material" name="material-1">
+			<instance_effect url="#material-1-effect" />
+		</material>
+		<material id="material-2-material" name="material-2">
+			<instance_effect url="#material-2-effect" />
+		</material>
+	</library_materials>
+	<library_geometries>
+		<geometry id="CollisionMap-mesh" name="CollisionMap-mesh">
+			<mesh>
+				<source id="CollisionMap-mesh-positions">
+					<float_array id="CollisionMap-mesh-positions-array" count="444">-2 0 1.5 -2 0 -1.5 -2 1.800683 -1.5 -2 1.8 -1.498861 -2 1.8 1.5 2 1.8 1.5 2 1.8 -1.5 2 -0.0006834269 -1.5 2 0 -1.498861 2 0 1.5 2 0.0002093315 1.5 1.100105 1.8 1.5 1.1 1.8 -1.5 2 0 -1.5 0 1.8 -1.5 0 -0.0003745556 -1.5 0.0002288818 0 -1.5 1.1 0 -1.5 -1.1 0 -1.5 -1.1 1.8 -1.5 -2 1.8 -1.5 -2 1.799791 1.5 -1.100105 0 1.5 -1.1 0 1.5 -1.1 1.8 1.5 -0.0002288818 1.8 1.5 0 1.800375 1.5 0 0 1.5 1.1 1.8 1.5 1.1 0 1.5 0 -0.0003745556 1.5 0 1.8 1.5 0.0002288818 0 1.5 0 0 -1.5 -1.099771 1.8 -1.5 -0.0003013611 0 -1.5 -1.1 1.799881 -1.5 1.999083 0 1.5 2 0 1.503061 0 0 1.495893 1.100469 0 -1.5 -0.001977086 0 1.5 -0.19 1.82 -1.3 -0.19 1.82 -1.55 -0.19 -0.01876807 -1.55 -0.19 -0.01999998 -1.550167 -0.19 -0.01999998 -1.3 -0.19 -0.02 -1.13 6.064773E-05 -0.01995639 -1.030023 -7.547438E-05 0.2246488 -1.139906 -1.232326E-05 0.2251321 -1.139953 -0.189948 0.2251186 -1.189995 -0.19 1.1 0.87 -0.19 1.1 -0.8703003 0.0002979487 1.1 -0.7701102 0 1.1 -0.7675422 0 1.1 0.7699669 9.687245E-05 1.099926 0.7699451 -6.376207E-05 0.2235177 1.140619 0.000115484 0.2244705 1.139579 -0.1897201 0.2244558 1.189584 0 0.225 -1.14 0.0001603667 1.099901 -0.7699633 -0.1896097 1.099975 -0.8698461 -0.1902746 1.101262 -0.8701949 -0.1899945 0.2249854 -1.190047 0 0.225 1.14 0.0001362537 -0.01988214 1.029993 -0.1901395 -0.01992582 1.130083 -0.1900707 -0.02023926 1.130043 -0.1900187 0.2249865 1.190064 -0.19 1.82 0.8149951 -0.19 1.82 -0.8171642 -0.19 1.82 1.300034 -0.19 1.100519 -0.8702759 -0.19 1.82 -0.8153106 -0.19 1.82 1.55 -0.19 1.82 1.3 -0.19 -0.01876807 1.3 -0.19 -0.01999998 1.299832 -0.19 -0.01999998 1.55 -0.19 0.225 1.19 -0.19 -0.02000001 1.12992 -0.19 -0.02000003 1.299909 -0.19 -0.02020286 1.3 -0.19 1.831 1.3 -0.19 0.2247968 1.190241 -0.19 1.818992 1.299432 -0.19 0.2250583 -1.190095 -0.19 -0.02 -1.30003 -0.19 -0.02184689 -1.3 -0.19 0.2221167 -1.190556 -0.19 0.2244531 -1.190716 -0.19 1.100398 -0.8702037 -0.19 1.819147 -0.8151658 -0.19 1.1 -0.8701055 -1.100296 1.8 1.5 -1.401268 1.8 0.09873211 -1.399949 1.8 0.1000512 0 1.8 -1.501374 -1.4 1.8 0.1014837 -1.4 1.8 -0.1 -1.401268 1.8 -0.09873211 -1.100296 1.8 -1.5 -2 1.8 -1.503357 -1.600052 1.8 -0.1014043 -1.6 1.8 -0.1016129 -1.6 1.8 0.09786475 0 1.8 1.494618 2.000021 1.8 -1.5 -0.004428387 1.8 1.506674 -2.515316E-05 1.8 1.5 1.998354 1.8 -1.497568 1.100171 1.8 1.5 2 1.8 -1.502492 -1.4 1.8 -0.1 -1.599919 1.8 -0.1 -1.998781 1.8 -1.498146 -1.999575 1.8 -1.5 -1.099301 1.8 -1.5 -1.6 1.8 0.1 -1.399946 1.8 0.1 -1.097481 1.8 1.508223 -1.600012 1.8 0.09790552 -1.099679 1.8 1.5 -1.4 1.8 0.09997673 -1.4 2.199953 -0.1 -1.4 1.8 0.1 -1.4 2.2 0.1 -1.4 2.2 -0.1 -1.6 2.199953 0.1 -1.400023 1.8 0.1 -1.6 2.2 0.1 -1.6 1.8 -0.1 -1.6 2.2 -0.1 -1.599977 1.8 -0.1 -1.100171 0 1.5 -2 0 -1.502492 -1.99983 0 -1.5 -1.1 0 1.502492 0 0 -1.494618 -1.1 0 1.495893 0.0004684925 0 -1.5 0 0 -1.17 0 0 1.17 0 1.288696 1.17 0 1.29 1.172368 0 1.29 -1.17</float_array>
+					<technique_common>
+						<accessor source="#CollisionMap-mesh-positions-array" count="148" stride="3">
+							<param name="X" type="float" />
+							<param name="Y" type="float" />
+							<param name="Z" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="CollisionMap-mesh-colors">
+					<float_array id="CollisionMap-mesh-colors-array" count="444">1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</float_array>
+					<technique_common>
+						<accessor source="#CollisionMap-mesh-colors-array" count="148" stride="3">
+							<param name="R" type="float" />
+							<param name="G" type="float" />
+							<param name="B" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<vertices id="CollisionMap-mesh-vertices">
+					<input semantic="POSITION" source="#CollisionMap-mesh-positions" />
+				</vertices>
+				<polylist material="material-0-material" count="70">
+					<input semantic="VERTEX" source="#CollisionMap-mesh-vertices" offset="0" />
+					<input semantic="COLOR" source="#CollisionMap-mesh-colors" offset="1" />
+					<vcount>3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3</vcount>
+					<p>0 0 1 0 2 0 0 0 3 0 4 0 5 0 6 0 7 0 5 0 8 0 9 0 5 0 10 0 11 0 12 0 13 0 6 0 12 0 14 0 15 0 12 0 16 0 17 0 18 0 19 0 20 0 0 0 21 0 22 0 23 0 24 0 25 0 23 0 26 0 27 0 12 0 17 0 13 0 28 0 9 0 29 0 18 0 20 0 1 0 23 0 4 0 24 0 28 0 30 0 31 0 28 0 29 0 32 0 33 0 14 0 34 0 18 0 35 0 36 0 17 0 29 0 37 0 17 0 38 0 13 0 33 0 39 0 40 0 17 0 41 0 29 0 42 0 43 0 44 0 42 0 45 0 46 0 47 0 48 0 49 0 47 0 50 0 51 0 52 0 53 0 54 0 52 0 55 0 56 0 52 0 57 0 58 0 52 0 59 0 60 0 61 0 62 0 63 0 61 0 64 0 65 0 66 0 67 0 68 0 66 0 69 0 70 0 52 0 71 0 72 0 52 0 73 0 71 0 42 0 74 0 75 0 76 0 77 0 78 0 76 0 79 0 80 0 81 0 82 0 83 0 81 0 84 0 85 0 52 0 86 0 87 0 47 0 88 0 89 0 42 0 90 0 91 0 42 0 92 0 93 0 52 0 94 0 95 0 31 0 96 0 97 0 31 0 98 0 99 0 14 0 100 0 101 0 14 0 102 0 103 0 4 0 104 0 105 0 4 0 106 0 107 0 12 0 108 0 14 0 12 0 109 0 110 0 28 0 111 0 112 0 5 0 113 0 114 0 115 0 116 0 117 0 115 0 118 0 119 0 120 0 121 0 122 0 4 0 123 0 124 0 115 0 125 0 126 0 127 0 128 0 129 0 120 0 130 0 131 0 127 0 132 0 128 0 120 0 133 0 134 0 120 0 134 0 132 0 115 0 126 0 135 0 133 0 129 0 134 0</p>
+				</polylist>
+				<polylist material="material-1-material" count="4">
+					<input semantic="VERTEX" source="#CollisionMap-mesh-vertices" offset="0" />
+					<input semantic="COLOR" source="#CollisionMap-mesh-colors" offset="1" />
+					<vcount>3 3 3 3</vcount>
+					<p>0 0 136 0 137 0 18 0 138 0 139 0 23 0 27 0 140 0 18 0 141 0 142 0</p>
+				</polylist>
+				<polylist material="material-2-material" count="2">
+					<input semantic="VERTEX" source="#CollisionMap-mesh-vertices" offset="0" />
+					<input semantic="COLOR" source="#CollisionMap-mesh-colors" offset="1" />
+					<vcount>3 3</vcount>
+					<p>143 0 144 0 145 0 143 0 146 0 147 0</p>
+				</polylist>
+			</mesh>
+		</geometry>
+	</library_geometries>
+	<library_controllers>
+		<controller id="CollisionMap-skin" name="skinCluster_CollisionMap">
+			<skin source="#CollisionMap-mesh">
+				<bind_shape_matrix>1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</bind_shape_matrix>
+				<source id="CollisionMap-skin-joints">
+					<IDREF_array id="CollisionMap-skin-joints-array" count="1">CollisionMap</IDREF_array>
+					<technique_common>
+						<accessor source="#CollisionMap-skin-joints-array" count="1" stride="1">
+							<param name="JOINT" type="Name" />
+						</accessor>
+					</technique_common>
+				</source>
+				<!--The inverse bind pose for a joint is given by the inverse bind pose of the parent joint (where present) multiplied by the inverse of the current joint's transformation matrix.-->
+				<source id="CollisionMap-skin-bind_poses">
+					<float_array id="CollisionMap-skin-bind_poses-array" count="16">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</float_array>
+					<technique_common>
+						<accessor source="#CollisionMap-skin-bind_poses-array" count="1" stride="16">
+							<param name="TRANSFORM" type="float4x4" />
+						</accessor>
+					</technique_common>
+				</source>
+				<source id="CollisionMap-skin-weights">
+					<!--The BMD format does not have any concept of 'weights', instead each vertex is assigned to one bone-->
+					<float_array id="CollisionMap-skin-weights-array" count="1">1</float_array>
+					<technique_common>
+						<accessor source="#CollisionMap-skin-weights-array" count="1" stride="1">
+							<param name="WEIGHT" type="float" />
+						</accessor>
+					</technique_common>
+				</source>
+				<joints>
+					<input semantic="JOINT" source="#CollisionMap-skin-joints" />
+					<input semantic="INV_BIND_MATRIX" source="#CollisionMap-skin-bind_poses" />
+				</joints>
+				<!--Each vertex will be assigned to only one bone with a weight of 1-->
+				<vertex_weights count="148">
+					<input semantic="JOINT" source="#CollisionMap-skin-joints" offset="0" />
+					<input semantic="WEIGHT" source="#CollisionMap-skin-weights" offset="1" />
+					<vcount>1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1</vcount>
+					<!--This list contains two values for each vertex, the first is the bone ID and the second is the index of the vertex weight '1' (0)-->
+					<v>0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</v>
+				</vertex_weights>
+			</skin>
+		</controller>
+	</library_controllers>
+	<library_visual_scenes>
+		<visual_scene id="Scene" name="Scene">
+			<!--This lists each of the 'bones' in the BMD model, listing each bone's individual Scale, Rotation, Translation transformation in the reverse of the order in which they should be multiplied to form an SRT  matrix. This will then be multiplied recursively by the parents' transformations to get the final transformation for this joint.-->
+			<node id="CollisionMap" name="CollisionMap" sid="CollisionMap" type="JOINT">
+				<translate sid="translate">0 0 0</translate>
+				<rotate sid="rotationZ">0 0 1 0</rotate>
+				<rotate sid="rotationY">0 1 0 0</rotate>
+				<rotate sid="rotationX">1 0 0 0</rotate>
+				<scale sid="scale">1 1 1</scale>
+			</node>
+			<node id="CollisionMap-node" name="CollisionMap-node" type="NODE">
+				<instance_controller url="#CollisionMap-skin">
+					<skeleton>#CollisionMap</skeleton>
+					<bind_material>
+						<technique_common>
+							<instance_material symbol="material-0-material" target="#material-0-material">
+								<bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0" />
+							</instance_material>
+							<instance_material symbol="material-1-material" target="#material-1-material">
+								<bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0" />
+							</instance_material>
+							<instance_material symbol="material-2-material" target="#material-2-material">
+								<bind_vertex_input semantic="UVMap" input_semantic="TEXCOORD" input_set="0" />
+							</instance_material>
+						</technique_common>
+					</bind_material>
+				</instance_controller>
+			</node>
+		</visual_scene>
+	</library_visual_scenes>
+	<scene>
+		<instance_visual_scene url="#Scene" />
+	</scene>
+</COLLADA>
