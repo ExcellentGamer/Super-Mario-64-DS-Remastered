@@ -1,0 +1,3 @@
+extern void scroll_ds_castle_000_displaylist_mesh_layer_5_vtx_0();
+extern void scroll_ds_castle_000_displaylist_mesh_layer_5_vtx_6();
+extern void scroll_castle_grounds_level_geo_ds_castle();
