@@ -66,7 +66,7 @@ Sharen,
 
 
 SonicDark,
-DaBanana64 (Me),
+DaBanana64,
 Peachypeach,
 Filipianosol,
 IvoOFC,
