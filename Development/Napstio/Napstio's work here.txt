@@ -1,0 +1,19 @@
+Amp needs an animation change to make the thunder thing looks right (it works differently on the DS version) and so they can look at Mario instead of always looking at the screen
+
+Bob-Omb needs new animations so the wind of the black bob-ombs actualy spin (aslo, in the DS version Pink and Black Bob-Omb don't uses the same animations)
+
+Fire Amp (don't know the realy name) needs to have a change of animations so they can look at Mario instead of always looking at the screen
+
+Breakable Boxes all looks like the wooden box you can carry (but maybe it is better to make the red brick box its own custom object like the black brick so yoshi can't ground pound it, also a custom object would be needed for the ice Block Yoshi can melt), also the breading particle of the small box doesn't match the actual box appearence
+
+Checkerboard Platforms needs a new collision since the DS and N64 have them shaped differently
+
+Chuckya needs custom animation to animate the wind
+
+Fly guy have animated arms in the DS Version but not the N64 Version
+
+Heart I still can't figure out how to make it work
+
+Koopa Shell should spin when riden not move when not riden (curently it's the oposite) also due to size difference with the original, mario curently go throught it
+
+Test Platform hasn't been replaced since It's unused in the game anyway (and don't have a DS equivalent)
