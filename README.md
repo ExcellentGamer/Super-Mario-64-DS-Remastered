@@ -20,7 +20,7 @@ As for Builder2, all you need is to click on the **Compile** button so it can fi
 ## THE SIMPLE WAY! (ONLY AVAILABLE FOR CHARACTERS AND NOT FOR ALL MODELS!!!)
 Drag and drop the folder **actors (Super-Mario-64-DS-Remastered-Dev\Patch\Beta 1.1\actors) (YOU SHOULD RENAME IT TOO!)** to your compiled build of Render96, it should be in Render96ex-alpha\build\us_pc\dynos\packs.
 
-Go into the game, settings, Models, and select the folder you've copied and pasted it.
+Go into the game, press Z and go to DynOS, Models Packs, and select the folder you've copied and pasted it.
 Have fun!
 
 ![ezgif-2-278f9211c4](https://user-images.githubusercontent.com/82652849/156057971-ffbcad73-a815-4152-804f-4809c6421aef.gif)
