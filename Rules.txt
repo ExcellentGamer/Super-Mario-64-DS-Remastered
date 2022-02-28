@@ -2,3 +2,4 @@
 2. Only make changes in your folder located in the "Development" folder.
 3. No precompiled bianaries shared in this repo.
 4. Ask ExcellentGamer if it is ok to add things to the "Patch" folder.
+5. Don't ask for roms, it's illegal to share roms to somebody else. Go dump it yourself or find it somewhere else.
