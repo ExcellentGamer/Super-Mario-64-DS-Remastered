@@ -32,54 +32,58 @@ Have fun!
 
 
 ## CREDITS
-Owner ExcellentGamer
-Co-Owner- Turbo
+Owner: ExcellentGamer
+
+
+Co-Owner: Turbo
 
 
 -**Programmers**
 
 
-Adya
-AndresL64
-iZePlayz
-Newborn-Leather
-AI64
-Keeb
+Adya,
+AndresL64,
+iZePlayz,
+Newborn-Leather,
+AI64,
+Keeb,
 
 
 -**Model Importers**
-Napstio
-BWGLite
+Napstio,
+BWGLite,
 
 
 -**Animators**
 
 
-Alan has anger issues
-Wappiash
-Sharen
+Alan has anger issues,
+Wappiash,
+Sharen,
+
+
 -**Contributers**
 
 
-SonicDark
-DaBanana64 (Me)
-Peachypeach
-Filipainosol
-IvoOFC
-DorfDork
-Render96 Team
+SonicDark,
+DaBanana64 (Me),
+Peachypeach,
+Filipainosol,
+IvoOFC,
+DorfDork,
+Render96 Team,
 
 
 -**Beta Testers**
 
 
 SonicDark
-Azzy
-DJ Dogster
-DMMaster
-Pigswipe
-Ultra
-Raphael Drew Boltman
-Beanieboi
-Fenius
-Rackkoon 
+Azzy,
+DJ Dogster,
+DMMaster,
+Pigswipe,
+Ultra,
+Raphael Drew Boltman,
+Beanieboi,
+Fenius,
+Rackkoon,
