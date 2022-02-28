@@ -1,0 +1,13 @@
+const MacroObject castle_grounds_area_1_macro_objs[] = {
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_1up, 0, 489, 3049, -2761, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_1up, 0, -3, 3049, -3018, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_1up, 0, -476, 3049, -2761, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_wooden_signpost, 0, -1597, 239, 5213, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_wooden_signpost, -90, 1598, 116, 4280, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_wooden_signpost, 0, -4356, 308, 2350, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_wooden_signpost, -90, -4281, 247, 3099, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_wooden_signpost, 90, 4998, 381, 1538, 0x00000000),
+	MACRO_OBJECT_WITH_BEH_PARAM(macro_box_wing_cap, 0, -3, 3459, -3212, 0x00000000),
+	MACRO_OBJECT_END(),
+};
+
