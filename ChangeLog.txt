@@ -17,4 +17,3 @@ Koopa Shell
 Metal Box
 Purple Switch
 Castle Grounds WIP
-Yes
