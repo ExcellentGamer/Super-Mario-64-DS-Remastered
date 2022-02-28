@@ -32,13 +32,13 @@ Have fun!
 
 
 ## CREDITS
-Owner: ExcellentGamer
+**Owner**: ExcellentGamer
 
 
-Co-Owner: Turbo
+**Co-Owner**: Turbo
 
 
--**Programmers**
+**Programmers**:
 
 
 Adya,
@@ -49,12 +49,12 @@ AI64,
 Keeb,
 
 
--**Model Importers**
+**Model Importers**:
 Napstio,
 BWGLite,
 
 
--**Animators**
+**Animators**:
 
 
 Alan has anger issues,
@@ -62,7 +62,7 @@ Wappiash,
 Sharen,
 
 
--**Contributers**
+**Contributers**:
 
 
 SonicDark,
@@ -74,7 +74,7 @@ DorfDork,
 Render96 Team,
 
 
--**Beta Testers**
+**Beta Testers**:
 
 
 SonicDark
