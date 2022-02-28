@@ -1,3 +1,9 @@
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+common0
+
+
 Amp needs an animation change to make the thunder thing looks right (it works differently on the DS version) and so they can look at Mario instead of always looking at the screen
 
 Bob-Omb needs new animations so the wind of the black bob-ombs actualy spin (aslo, in the DS version Pink and Black Bob-Omb don't uses the same animations)
@@ -17,3 +23,12 @@ Heart I still can't figure out how to make it work
 Koopa Shell should spin when riden not move when not riden (curently it's the oposite) also due to size difference with the original, mario curently go throught it
 
 Test Platform hasn't been replaced since It's unused in the game anyway (and don't have a DS equivalent)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+common1
+
+
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
