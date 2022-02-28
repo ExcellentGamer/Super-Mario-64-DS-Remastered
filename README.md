@@ -11,6 +11,7 @@ Now time for compiling, all you have to do is to input `make -j4' in the termina
 As for Builder2, all you need is to click on the **Compile** button so it can finally build the game.
 
 
+https://user-images.githubusercontent.com/82652849/156051185-643ecd29-4439-42c3-ba23-c65b316041ce.mp4
 
 
 **THE SIMPLE WAY!**
