@@ -10,7 +10,7 @@ Then you should git clone https://github.com/ExcellentGamer/Super-Mario-64-DS-Re
 
 After you've done git cloning it, all you have to do is to copy everything from **Beta 1.1** folder and paste them into the subfolder of Render96.
 
-Now time for compiling, all you have to do is to input `make -j4` in the terminal in order to compile. 
+Now time for compiling, all you have to do is to input `make -j4` in the terminal in order to compile. (For more information on compiling Super Mario 64 on PC, please visit https://github.com/sm64-port/sm64-port)
 
 As for Builder2, all you need is to click on the **Compile** button so it can finally build the game.
 
