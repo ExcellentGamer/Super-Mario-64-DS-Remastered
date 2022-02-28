@@ -4,7 +4,7 @@ Please read "Rules.txt" for rules.
 Don't share this repo to anybody until it's publicly out. 
 
 ## Instructions:
-Firstly, you have to have the Render96 repo already cloned... (You can clone it from here: https://github.com/Render96/Render96ex) or you can use Builder2 for git cloning it. (Download link for Builder2: https://sm64pc.info/sm64pcbuilder2/)
+Firstly, you have to have the Render96 repo already cloned... (You can clone it from here: git clone https://github.com/Render96/Render96ex) or you can use Builder2 for git cloning it. (Download link for Builder2: https://sm64pc.info/sm64pcbuilder2/)
 
 Then you should git clone https://github.com/ExcellentGamer/Super-Mario-64-DS-Remastered-Dev, is needed for installing the mod.
 
