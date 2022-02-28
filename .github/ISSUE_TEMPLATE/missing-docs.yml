@@ -1,0 +1,10 @@
+name: Missing Documentation
+description: Ask for documentation if something is missing.
+labels: [documentation]
+body:
+  - type: textarea
+    attributes:
+      label: What needs to be documented?
+      description: 'For example: "There isn't any guide on how to get custom textures!"'
+    validations:
+      required: true
