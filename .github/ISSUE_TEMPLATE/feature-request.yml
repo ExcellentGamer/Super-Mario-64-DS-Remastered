@@ -1,0 +1,9 @@
+name: Feature Request
+description: Request your ideas that would make the mod more interesting here!
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: What feature do you want to get added on the mod itself?
+    validations:
+      required: true
