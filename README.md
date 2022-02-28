@@ -29,3 +29,41 @@ Have fun!
 ![Screenshot 2022-03-01 010725](https://user-images.githubusercontent.com/82652849/156063228-1330ec9c-c860-49de-8c7d-64c62e266d6b.png)
 ![Screenshot 2022-03-01 010840](https://user-images.githubusercontent.com/82652849/156063236-7b6020a0-ea70-42a3-9b18-272e5f8a4a91.png)
 ![Screenshot 2022-03-01 010905](https://user-images.githubusercontent.com/82652849/156063243-cff7a1b9-7357-4338-a061-cbaba281fe36.png)
+
+
+## CREDITS
+Owner ExcellentGamer
+Co-Owner- Turbo
+-**Programmers**
+Adya
+AndresL64
+iZePlayz
+Newborn-Leather
+AI64
+Keeb
+-**Model Importers**
+Napstio
+BWGLite
+-**Animators**
+Alan has anger issues
+Wappiash
+Sharen
+-**Contributers**
+SonicDark
+DaBanana64 (Me)
+Peachypeach
+Filipainosol
+IvoOFC
+DorfDork
+Render96 Team
+-**Beta Testers**
+SonicDark
+Azzy
+DJ Dogster
+DMMaster
+Pigswipe
+Ultra
+Raphael Drew Boltman
+Beanieboi
+Fenius
+Rackkoon 
