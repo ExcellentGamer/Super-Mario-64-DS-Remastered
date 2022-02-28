@@ -10,8 +10,8 @@ After you've done git cloning it, all you have to do is to copy everything from 
 Now time for compiling, all you have to do is to input `make -j4' in the terminal in order to compile. 
 As for Builder2, all you need is to click on the **Compile** button so it can finally build the game.
 
+https://imgur.com/a/swRbHx9
+
 
 **THE SIMPLE WAY!**
 Drag and drop the **Beta 1.1** to your compiled build of Render96, it should be in Render96ex-alpha\build\us_pc\dynos\packs.
-
-See if the sussy bot works
