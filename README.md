@@ -13,3 +13,5 @@ As for Builder2, all you need is to click on the **Compile** button so it can fi
 
 **THE SIMPLE WAY!**
 Drag and drop the **Beta 1.1** to your compiled build of Render96, it should be in Render96ex-alpha\build\us_pc\dynos\packs.
+
+See if the sussy bot works
