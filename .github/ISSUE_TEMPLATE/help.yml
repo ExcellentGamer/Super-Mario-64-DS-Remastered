@@ -1,5 +1,5 @@
 name: Help me!
-description: If you need help using the engine.
+description: If you need help with the mod.
 labels: [help wanted]
 body:
   - type: textarea
@@ -12,10 +12,10 @@ body:
   - type: dropdown
     id: modding
     attributes:
-      label: "Are you modding a build from source or with Lua?"
+      label: "Are you building manually or with Builder2?"
       options:
-        - Lua
-        - Source
+        - Builder2
+        - Manually
     validations:
       required: true
 
@@ -27,17 +27,5 @@ body:
         - "Windows x64"
         - "Windows x86/x32"
         - "Linux"
-        - "Mac"
-        - "HTML5/Browser"
-        - "Flash/Air-based target"
-        - "Neko, HashLink, or other build system"
     validations:
       required: true
-
-  - type: input
-    id: buildsummary
-    attributes:
-      label: "Did you edit anything in this build? If so, mention or summarize your changes."
-      placeholder: "Yes, I edited ClientPrefs.hx and tried to add a new setting"
-    validations:
-      required: false
