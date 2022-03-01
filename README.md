@@ -3,6 +3,9 @@ Please read "Rules.txt" for rules.
 
 Don't share this repo to anybody until it's publicly out. 
 
+**Welcome to the offical repo of Super Mario DS Remastered!**
+**What's the purpose?** It's a mod made for Super Mario 64 PC Port. It remodels the whole game with DS models from Super Mario 64 DS! (**CURRENTLY WORK IN PROGRESS!!!**)
+
 ## Instructions:
 Firstly, you have to have the Render96 repo already cloned... (You can clone it from here: git clone https://github.com/Render96/Render96ex)
 
