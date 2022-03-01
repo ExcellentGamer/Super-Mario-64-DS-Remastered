@@ -31,9 +31,7 @@ Go into the game, press Z and go to DynOS, Models Packs, and select the folder y
 Have fun!
 
 ![ezgif-2-278f9211c4](https://user-images.githubusercontent.com/82652849/156057971-ffbcad73-a815-4152-804f-4809c6421aef.gif)
-![Screenshot 2022-03-01 010725](https://user-images.githubusercontent.com/82652849/156063228-1330ec9c-c860-49de-8c7d-64c62e266d6b.png)
-![Screenshot 2022-03-01 010840](https://user-images.githubusercontent.com/82652849/156063236-7b6020a0-ea70-42a3-9b18-272e5f8a4a91.png)
-![Screenshot 2022-03-01 010905](https://user-images.githubusercontent.com/82652849/156063243-cff7a1b9-7357-4338-a061-cbaba281fe36.png)
+!https://media.discordapp.net/attachments/944288872492322937/948305695118352454/ezgif-1-29b8f5ffcf.gif
 
 
 ## CREDITS
