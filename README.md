@@ -59,14 +59,14 @@ AndresL64,
 iZePlayz,
 Newborn-Leather,
 AI64,
-Keeb,
+Keeb.
 
 
 **Model Importers**:
 
 
 Napstio,
-BWGLite,
+BWGLite.
 
 
 **Animators**:
@@ -74,7 +74,7 @@ BWGLite,
 
 Alan has anger issues,
 Wappiash,
-Sharen,
+Sharen.
 
 
 **Contributers**:
@@ -86,7 +86,7 @@ Peachypeach,
 Filipianosol,
 IvoOFC,
 DorfDork,
-Render96 Team,
+Render96 Team.
 
 
 **Beta Testers**:
@@ -101,4 +101,4 @@ Ultra,
 Raphael Drew Boltman,
 Beanieboi,
 Fenius,
-Rackkoon
+Rackkoon.
