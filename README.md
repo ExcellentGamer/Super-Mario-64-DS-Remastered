@@ -1,7 +1,17 @@
 # Super-Mario-64-DS-Remastered-Dev
-Please read "Rules.txt" for rules.
 
-Don't share this repo to anybody until it's publicly out. 
+## Rules:
+
+1. DO NOT SHARE THIS REPO. THIS IS A -DEV- ONLY REPO!!!
+
+2. Only make changes in your folder located in the "Development" folder.
+
+3. No pre-compiled binaries shared in this repo.
+
+4. Ask ExcellentGamer if it is ok to add things to the "Patch" folder.
+
+5. Don't ask for roms, it's illegal to share roms to somebody else. Go dump it yourself or find it somewhere else.
+
 
 **Welcome to the official repo of Super Mario DS Remastered!**
 
