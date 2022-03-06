@@ -81,7 +81,6 @@ Sharen.
 
 
 SonicDark,
-DaBanana64,
 Peachypeach,
 Filipianosol,
 IvoOFC,
