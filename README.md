@@ -73,7 +73,7 @@ BWGLite.
 
 
 Alan has anger issues,
-Wappiash,
+Wappaish,
 Sharen.
 
 
@@ -81,7 +81,7 @@ Sharen.
 
 
 SonicDark,
-Peachypeach,
+PeachyPeach,
 Filipianosol,
 IvoOFC,
 DorfDork,
