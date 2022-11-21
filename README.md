@@ -5,11 +5,11 @@
 1. Stupid commits make me cry <:(
 
 2. Only make changes in your folder located in the "Development" folder
-(OR IT WILL CAUSE A BIG GITHUB BAD BOY)
+**VERY HELPFUL FOR GETTING CREDITED**
 
 3. No pre-compiled binaries shared in this repo. (Duh)
 
-4. Ask ExcellentGamer if it is ok to add things to the "Patch" folder. :>
+4. Ask ExcellentGamer if he's ok with adding your forks changes! :D
 
 5. Don't ask for roms, it's illegal to share roms to somebody else. Go dump it yourself or find it somewhere else. (Duh 2)
 
