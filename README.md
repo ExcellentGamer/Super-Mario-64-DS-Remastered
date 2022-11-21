@@ -26,7 +26,7 @@ Or you can use Builder2 for git cloning it. (Download link for Builder2: https:/
 
 Then you should git clone https://github.com/ExcellentGamer/Super-Mario-64-DS-Remastered-Dev, is needed for installing the mod.
 
-After you've done git cloning it, all you have to do is to copy everything from **Beta 1.1** folder and paste them into the subfolder of Render96.
+After you've done git cloning it, all you have to do is to copy everything from **Beta 3.0** folder and paste them into the subfolder of Render96.
 
 Now time for compiling, all you have to do is to input `make -j4` in the terminal in order to compile. (For more information on compiling Super Mario 64 on PC, please visit https://github.com/sm64-port/sm64-port)
 
