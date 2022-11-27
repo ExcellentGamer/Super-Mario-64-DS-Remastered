@@ -1,0 +1,8 @@
+extern const GeoLayout checkerboard_platform_geo[];
+extern Lights1 checkerboard_platform_f3d_material_lights;
+extern u8 checkerboard_platform_normal_lift_rgba32[];
+extern Vtx checkerboard_platform_000_displaylist_mesh_layer_1_vtx_0[8];
+extern Gfx checkerboard_platform_000_displaylist_mesh_layer_1_tri_0[];
+extern Gfx mat_checkerboard_platform_f3d_material[];
+extern Gfx checkerboard_platform_000_displaylist_mesh_layer_1[];
+extern Gfx checkerboard_platform_material_revert_render_settings[];
